@@ -1,0 +1,632 @@
+[
+    {
+        "course": "Advanced Business (Honours) in Accounting",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ACCNTC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in Business Analytics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BUSANC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in Business Information Systems",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BISYSC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in Finance",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FINANC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in Human Resources",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=HMRESC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in Innovation and Entrepreneurship",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=INNOVC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in International Business",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=INBUSC2139"
+    },
+    {
+        "course": "Advanced Business (Honours) in Marketing",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MARKEC2139"
+    },
+    {
+        "course": "Advanced Finance and Economics (Honours) in Economics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ECONOC2140"
+    },
+    {
+        "course": "Advanced Finance and Economics (Honours) in Finance",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FINANC2140"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in Ancient History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCIEC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in Art History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ARTHIC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in Drama",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=DRAMAC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in English Literature",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ENLITC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=HISTOC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in Music",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MUSICC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in Philosophy",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PHILOC2414"
+    },
+  {
+        "course": "Advanced Humanities (Honours) in Studies in Religion",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=RELIGC2414"
+    },
+    {
+        "course": "Advanced Humanities (Honours) in Western Civilisation",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=WSCIVD2414"
+    },
+    {
+        "course": "Advanced Science (Honours) in Aboriginal and Torres Strait Islander Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ABORIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Anatomy",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANATOX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Ancient Greek",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCGRA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Ancient History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCIEA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Ancient History/History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCHHA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Anthropology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANTHRA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Applied Mathematics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=APPMAC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Archaeological Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ARCHSA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Art History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ARTHIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Astrophysics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ASTROA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Australian Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=STUACA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Biochemistry and Molecular Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BIMOLC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Bioinformatics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BIOINC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Biomedical Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BIOMEX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Biophysics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BIOPHX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Cell Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CELBIC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Chemical Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHEMBA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Chemistry",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHEMIX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Chinese",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHINEA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Chinese Translation and Interpreting",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHITIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Coastal and Ocean Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=COOSCC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Computational Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=COMSCA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Computer Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=COSCIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Criminology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CRIMIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Data Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=DATASA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Design",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=DESGNA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Developmental Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=DEVELX2516"
+    },
+  {
+        "course": "Advanced Science (Honours) in Drama",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=DRAMAA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Drug Design and Development",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=DRUGDX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Earth Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=EARTHC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Ecology and Conservation Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ECCOBC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Economics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ECONOA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in English",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ENGLIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in English Literature",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ENLITA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in English as an International Language",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ENGILA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Entomology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ENTOMA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Environmental Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ENVIRX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Evolutionary Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=EVOLUX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Film and Television Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FILMTA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Food Science and Nutrition",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FOODSC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Food Technology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FOTECX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in French",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FRENCA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in French Advanced",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=FREADA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Gender Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=GENDRA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Genetics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=GENETX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Genomics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=GENOMX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Geographical Information Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=GEINSA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Geographical Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=GEOSCC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in German",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=GERMNA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in History",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=HISTOA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Human Anatomy",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=HUANAA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Human Physiology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=HUPHYA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Immunology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=IMUNOX2516"
+    },
+  {
+        "course": "Advanced Science (Honours) in Indonesian",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=INDONA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in International Relations",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=INTERA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Italian",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ITALIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Japanese",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=JAPANA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Japanese Advanced",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=JAPADA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Journalism and Mass Communication",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=JOURMA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Korean",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=KOREAA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Latin",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=LATINA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Legal Education Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=LGLEDA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Linguistics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=LINGUA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Marine Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MARBIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Mathematics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MATHSA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Media and Digital Cultures",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MDIGCA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Microbiology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MICRBC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Music",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MUSICA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Music Psychology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MUPSYA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Nanotechnology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=NANOHX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Neuroscience",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=NEUROX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Parasitology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PARASX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Peace and Conflict Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PEACEA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Pharmacology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PHARMX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Philosophy",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PHILOA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Physics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PHYSCA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Physiology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PHYSLX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Plant Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PLANTA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Political Science",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=POLISA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Popular Music and Technology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=POPMTA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Population and Place",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=POPPLA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Professional Writing and Communication",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PROWRA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Psychology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PSYCOA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Public Health",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=PUBHLC2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Russian",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=RUSSIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Science Communication",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=SCCOMA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Sociology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=SOCIOA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Spanish",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=SPANIA2516"
+    },
+  {
+        "course": "Advanced Science (Honours) in Sports Studies",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=SPORTA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Statistics",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=STATIX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Studies in Religion",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=RELIGA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Wildlife Biology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=WILDLX2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Writing",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=WRITIA2516"
+    },
+    {
+        "course": "Advanced Science (Honours) in Zoology",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ZOOLGA2516"
+    },
+    {
+        "course": "Agribusiness in Agribusiness",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2007"
+    },
+    {
+        "course": "Agricultural Science in Agronomy",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=AGRONC2448"
+    },
+    {
+        "course": "Agricultural Science in Animal Science",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANIMAC2448"
+    },
+    {
+        "course": "Agricultural Science in Horticulture",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=HORTIC2448"
+    },
+    {
+        "course": "Agricultural Science (Honours) in Agricultural Science (Honours)",
+        "program": "Bachelor Honours",
+        "link": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2450"
+    },
+    {
+        "course": "Architectural Design in Architectural Design",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2293"
+    },
+    {
+        "course": "Arts in Aboriginal and Torres Strait Islander Studies",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ABORIA2000"
+    },
+    {
+        "course": "Arts in Ancient Greek",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCGRA2000"
+    },
+    {
+        "course": "Arts in Ancient History",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCIED2000"
+    },
+    {
+        "course": "Arts in Ancient History/History",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANCHHA2000"
+    },
+    {
+        "course": "Arts in Anthropology",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ANTHRA2000"
+    },
+    {
+        "course": "Arts in Archaeology",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ARCHAA2000"
+    },
+    {
+        "course": "Arts in Archaeology",
+        "program": "Bachelor",
+        "link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ARCHAC2000"
+    },
+]
