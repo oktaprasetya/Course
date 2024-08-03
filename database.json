@@ -1,31 +1,54 @@
-{
-  "universities": [
+[
     {
-      "country": "Australia",
-      "university": "University of Melbourne",
-      "logo": "https://example.com/logo1.png",
-      "majors": [
-        {
-          "name": "Computer Science",
-          "url": "https://example.com/computer-science"
-        },
-        {
-          "name": "Business Administration",
-          "url": "https://example.com/business-administration"
-        }
-      ]
+        "country": "Australia",
+        "universities": [
+            {
+                "logo": "link_to_logo1",
+                "name": "University of Sydney",
+                "majors": [
+                    {
+                        "name": "Computer Science",
+                        "details": "link_to_details1"
+                    },
+                    {
+                        "name": "Business Administration",
+                        "details": "link_to_details2"
+                    }
+                ]
+            },
+            {
+                "logo": "link_to_logo2",
+                "name": "University of Melbourne",
+                "majors": [
+                    {
+                        "name": "Computer Science",
+                        "details": "link_to_details3"
+                    },
+                    {
+                        "name": "Medicine",
+                        "details": "link_to_details4"
+                    }
+                ]
+            }
+        ]
     },
     {
-      "country": "New Zealand",
-      "university": "University of Auckland",
-      "logo": "https://example.com/logo2.png",
-      "majors": [
-        {
-          "name": "Engineering",
-          "url": "https://example.com/engineering"
-        }
-      ]
+        "country": "New Zealand",
+        "universities": [
+            {
+                "logo": "link_to_logo3",
+                "name": "University of Auckland",
+                "majors": [
+                    {
+                        "name": "Law",
+                        "details": "link_to_details5"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "details": "link_to_details6"
+                    }
+                ]
+            }
+        ]
     }
-    // Tambahkan lebih banyak data universitas dan jurusan
-  ]
-}
+]
