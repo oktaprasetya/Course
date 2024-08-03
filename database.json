@@ -3,15 +3,15 @@
     {
       "country": "Australia",
       "university": "University of Melbourne",
-      "logo": "https://bit.ly/42J31d6",
+      "logo": "https://example.com/logo1.png",
       "majors": [
         {
           "name": "Computer Science",
-          "url": "https://example.com/major-details"
+          "url": "https://example.com/computer-science"
         },
         {
           "name": "Business Administration",
-          "url": "https://example.com/major-details"
+          "url": "https://example.com/business-administration"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "majors": [
         {
           "name": "Engineering",
-          "url": "https://example.com/major-details"
+          "url": "https://example.com/engineering"
         }
       ]
     }
