@@ -1,54 +1,28 @@
 [
-    {
-        "country": "Australia",
-        "universities": [
-            {
-                "logo": "link_to_logo1",
-                "name": "University of Sydney",
-                "majors": [
-                    {
-                        "name": "Computer Science",
-                        "details": "link_to_details1"
-                    },
-                    {
-                        "name": "Business Administration",
-                        "details": "link_to_details2"
-                    }
-                ]
-            },
-            {
-                "logo": "link_to_logo2",
-                "name": "University of Melbourne",
-                "majors": [
-                    {
-                        "name": "Computer Science",
-                        "details": "link_to_details3"
-                    },
-                    {
-                        "name": "Medicine",
-                        "details": "link_to_details4"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "country": "New Zealand",
-        "universities": [
-            {
-                "logo": "link_to_logo3",
-                "name": "University of Auckland",
-                "majors": [
-                    {
-                        "name": "Law",
-                        "details": "link_to_details5"
-                    },
-                    {
-                        "name": "Computer Science",
-                        "details": "link_to_details6"
-                    }
-                ]
-            }
-        ]
-    }
+  {
+    "university": "University of Sydney",
+    "country": "Australia",
+    "programs": [
+      {
+        "major": "Computer Science",
+        "details_url": "https://sydney.edu.au/courses/courses/uc/bachelor-of-computer-science.html"
+      },
+      {
+        "major": "Business Administration",
+        "details_url": "https://sydney.edu.au/courses/courses/uc/bachelor-of-business-administration.html"
+      }
+    ],
+    "logo": "https://example.com/university-of-sydney-logo.png"
+  },
+  {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "programs": [
+      {
+        "major": "Mechanical Engineering",
+        "details_url": "https://auckland.ac.nz/courses/courses/uc/bachelor-of-mechanical-engineering.html"
+      }
+    ],
+    "logo": "https://example.com/university-of-auckland-logo.png"
+  }
 ]
