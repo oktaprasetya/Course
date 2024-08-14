@@ -1,28 +1,1593 @@
 [
-  {
-    "university": "University of Sydney",
-    "country": "Australia",
-    "programs": [
-      {
-        "major": "Computer Science",
-        "details_url": "https://sydney.edu.au/courses/courses/uc/bachelor-of-computer-science.html"
-      },
-      {
-        "major": "Business Administration",
-        "details_url": "https://sydney.edu.au/courses/courses/uc/bachelor-of-business-administration.html"
-      }
-    ],
-    "logo": "https://example.com/university-of-sydney-logo.png"
-  },
-  {
-    "university": "University of Auckland",
-    "country": "New Zealand",
-    "programs": [
-      {
-        "major": "Mechanical Engineering",
-        "details_url": "https://auckland.ac.nz/courses/courses/uc/bachelor-of-mechanical-engineering.html"
-      }
-    ],
-    "logo": "https://example.com/university-of-auckland-logo.png"
-  }
+    {
+        "university": "Australian National University",
+        "country": "Australia",
+        "programs": [
+            {
+                "major": "Flexible Double Degree - Arts, Social Sciences, Business, Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/4050FDD"
+            },
+            {
+                "major": "Bachelor of Accounting",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BACCT"
+            },
+            {
+                "major": "Bachelor of Accounting (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HACCT"
+            },
+            {
+                "major": "Bachelor of Actuarial Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BACTS"
+            },
+            {
+                "major": "Bachelor of Actuarial Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HACTS"
+            },
+            {
+                "major": "Bachelor of Advanced Computing (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AACOM"
+            },
+            {
+                "major": "Bachelor of Advanced Computing (Research and Development) (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AACRD"
+            },
+            {
+                "major": "Bachelor of Applied Data Analytics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BADAN"
+            },
+            {
+                "major": "Bachelor of Applied Data Analytics (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HADAN"
+            },
+            {
+                "major": "Bachelor of Archaeological Practice (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HAPRC"
+            },
+            {
+                "major": "Bachelor of Art History and Curatorship (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HAHCR"
+            },
+            {
+                "major": "Bachelor of Arts",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BARTS"
+            },
+            {
+                "major": "Bachelor of Arts (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HARTS"
+            },
+            {
+                "major": "Bachelor of Arts (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HART2"
+            },
+            {
+                "major": "Bachelor of Arts (with Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BARTY"
+            },
+            {
+                "major": "Bachelor of Asia-Pacific Affairs",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BAPAF"
+            },
+            {
+                "major": "Bachelor of Asia-Pacific Affairs (Ritsumeikan)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BAPAR"
+            },
+            {
+                "major": "Bachelor of Asian Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BASIA"
+            },
+            {
+                "major": "Bachelor of Asian Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HASIA"
+            },
+            {
+                "major": "Bachelor of Asian Studies (with Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BASY"
+            },
+            {
+                "major": "Bachelor of Biotechnology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BBIOT"
+            },
+            {
+                "major": "Bachelor of Biotechnology (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HBIOT"
+            },
+            {
+                "major": "Bachelor of Business Administration",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BBUSA"
+            },
+            {
+                "major": "Bachelor of Business Administration (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HBUSA"
+            },
+            {
+                "major": "Bachelor of Classical Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HCLAS"
+            },
+            {
+                "major": "Bachelor of Commerce",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BCOMM"
+            },
+            {
+                "major": "Bachelor of Commerce (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HCOMM"
+            },
+            {
+                "major": "Bachelor of Computing",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BCOMP"
+            },
+            {
+                "major": "Bachelor of Computing (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HCOMP"
+            },
+            {
+                "major": "Bachelor of Criminology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BCRIM"
+            },
+            {
+                "major": "Bachelor of Criminology (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HCRIM"
+            },
+            {
+                "major": "Bachelor of Design",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BDESN"
+            },
+            {
+                "major": "Bachelor of Design (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HDESN"
+            },
+            {
+                "major": "Bachelor of Development Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HDEVS"
+            },
+            {
+                "major": "Bachelor of Development Studies (with Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BDEVY"
+            },
+            {
+                "major": "Bachelor of Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BECON"
+            },
+            {
+                "major": "Bachelor of Economics (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HECON"
+            },
+            {
+                "major": "Bachelor of Engineering (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AENGI"
+            },
+            {
+                "major": "Bachelor of Engineering (Honours) in Software Engineering",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AENSE"
+            },
+            {
+                "major": "Bachelor of Engineering (Research and Development) (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AENRD"
+            },
+            {
+                "major": "Bachelor of Environment and Sustainability",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BENSU"
+            },
+            {
+                "major": "Bachelor of Environment and Sustainability (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HENSU"
+            },
+            {
+                "major": "Bachelor of Environment and Sustainability Advanced (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AENSU"
+            },
+            {
+                "major": "Bachelor of Environmental Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HENVS"
+            },
+            {
+                "major": "Bachelor of European Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HEURO"
+            },
+            {
+                "major": "Bachelor of Finance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BFINN"
+            },
+            {
+                "major": "Bachelor of Finance (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HFINN"
+            },
+            {
+                "major": "Bachelor of Finance, Economics and Statistics (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AFEST"
+            },
+            {
+                "major": "Bachelor of Genetics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BGENE"
+            },
+            {
+                "major": "Bachelor of Genetics (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HGENE"
+            },
+            {
+                "major": "Bachelor of Health Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BHLTH"
+            },
+            {
+                "major": "Bachelor of Health Science (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HHLTH"
+            },
+            {
+                "major": "Bachelor of Information Technology (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HIT"
+            },
+            {
+                "major": "Bachelor of International Business",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BINBS"
+            },
+            {
+                "major": "Bachelor of International Business (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HINBS"
+            },
+            {
+                "major": "Bachelor of International Relations",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BIR"
+            },
+            {
+                "major": "Bachelor of International Relations (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HIR"
+            },
+            {
+                "major": "Bachelor of International Relations (With Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BIRY"
+            },
+            {
+                "major": "Bachelor of International Security Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BINSS"
+            },
+            {
+                "major": "Bachelor of International Security Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HINSS"
+            },
+            {
+                "major": "Bachelor of International Security Studies (with Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BINSY"
+            },
+            {
+                "major": "Bachelor of Languages",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BLANG"
+            },
+            {
+                "major": "Bachelor of Languages (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HLANG"
+            },
+            {
+                "major": "Bachelor of Languages (with Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BLANY"
+            },
+            {
+                "major": "Bachelor of Laws (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/ALLB"
+            },
+            {
+                "major": "Bachelor of Mathematical Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BMASC"
+            },
+            {
+                "major": "Bachelor of Mathematical Sciences (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HMASC"
+            },
+            {
+                "major": "Bachelor of Medical Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BMEDS"
+            },
+            {
+                "major": "Bachelor of Medical Science (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HMEDS"
+            },
+            {
+                "major": "Bachelor of Middle Eastern and Central Asian Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HMECA"
+            },
+            {
+                "major": "Bachelor of Music",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BMUSI"
+            },
+            {
+                "major": "Bachelor of Music (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HMUSI"
+            },
+            {
+                "major": "Bachelor of Pacific Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BPAST"
+            },
+            {
+                "major": "Bachelor of Pacific Studies (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HPAST"
+            },
+            {
+                "major": "Bachelor of Philosophy (Honours) - Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/APHSC"
+            },
+            {
+                "major": "Bachelor of Philosophy (Honours)—Humanities and Social Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/AHUSS"
+            },
+            {
+                "major": "Bachelor of Political Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BPLSC"
+            },
+            {
+                "major": "Bachelor of Political Science (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HPLSC"
+            },
+            {
+                "major": "Bachelor of Politics, Philosophy and Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BPPE"
+            },
+            {
+                "major": "Bachelor of Politics, Philosophy and Economics (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HPPE"
+            },
+            {
+                "major": "Bachelor of Psychology (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/APSYC"
+            },
+            {
+                "major": "Bachelor of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BPPOL"
+            },
+            {
+                "major": "Bachelor of Public Policy (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HPPOL"
+            },
+            {
+                "major": "Bachelor of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BSC"
+            },
+            {
+                "major": "Bachelor of Science (Advanced) (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/ASCAD"
+            },
+            {
+                "major": "Bachelor of Science (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HSC"
+            },
+            {
+                "major": "Bachelor of Science (Psychology)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BSPSY"
+            },
+            {
+                "major": "Bachelor of Science (Psychology) (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HSPSY"
+            },
+            {
+                "major": "Bachelor of Science (with Year in Asia)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BSCY"
+            },
+            {
+                "major": "Bachelor of Statistics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BSTAT"
+            },
+            {
+                "major": "Bachelor of Statistics (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HSTAT"
+            },
+            {
+                "major": "Bachelor of Visual Arts",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/BVART"
+            },
+            {
+                "major": "Bachelor of Visual Arts (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/HVART"
+            },
+            {
+                "major": "Diploma of Languages",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/ELANG"
+            },
+            {
+                "major": "Diploma of Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/ESTUD"
+            },
+            {
+                "major": "Flexible Double Degree - Engineering and Advanced Computing (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/4750FDD"
+            },
+            {
+                "major": "Flexible Double Degree - Law (Honours)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/4350FDD"
+            },
+            {
+                "major": "Flexible Double Degree PhB Advanced Arts Social Sciences Business & Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/4569FDD"
+            },
+            {
+                "major": "Doctor of Medicine and Surgery",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8950XMCHD"
+            },
+            {
+                "major": "Executive Master of Public Administration",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MEMPA"
+            },
+            {
+                "major": "Executive Master of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MEMPP"
+            },
+            {
+                "major": "Flexible Double Masters",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7051FDM"
+            },
+            {
+                "major": "Graduate Certificate of Accounting",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/6459XGCACC"
+            },
+            {
+                "major": "Graduate Certificate of Applied Data Analytics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CADAN"
+            },
+            {
+                "major": "Graduate Certificate of Asia-Pacific Economies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/GCAPE"
+            },
+            {
+                "major": "Graduate Certificate of Climate Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CCPOL"
+            },
+            {
+                "major": "Graduate Certificate of Crime, Risk and Resilience",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CCRR"
+            },
+            {
+                "major": "Graduate Certificate of Crime, Risk and Resilience",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CCRRO"
+            },
+            {
+                "major": "Graduate Certificate of Cross-Cultural Analysis",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CCCA"
+            },
+            {
+                "major": "Graduate Certificate of Data Engineering",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/GCDE"
+            },
+            {
+                "major": "Graduate Certificate of Demography",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CDEMO"
+            },
+            {
+                "major": "Graduate Certificate of Digital Transformation",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CDITR"
+            },
+            {
+                "major": "Graduate Certificate of Diplomacy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CDIPLO"
+            },
+            {
+                "major": "Graduate Certificate of Disaster Risk Science and Sustainability",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CDRSS"
+            },
+            {
+                "major": "Graduate Certificate of Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CECON"
+            },
+            {
+                "major": "Graduate Certificate of Engaging Asia",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CEASI"
+            },
+            {
+                "major": "Graduate Certificate of Engaging the Pacific",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CENPA"
+            },
+            {
+                "major": "Graduate Certificate of Environment",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/6659XGCENV"
+            },
+            {
+                "major": "Graduate Certificate of Environmental Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/GCEVM"
+            },
+            {
+                "major": "Graduate Certificate of Environmental and Resource Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CEREC"
+            },
+            {
+                "major": "Graduate Certificate of Environmental and Resource Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CERECO"
+            },
+            {
+                "major": "Graduate Certificate of Finance and Actuarial Statistics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CFAS"
+            },
+            {
+                "major": "Graduate Certificate of Forests",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CFORS"
+            },
+            {
+                "major": "Graduate Certificate of General and Applied Linguistics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CLING"
+            },
+            {
+                "major": "Graduate Certificate of International and Development Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CIDEC"
+            },
+            {
+                "major": "Graduate Certificate of International and Development Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CIDECO"
+            },
+            {
+                "major": "Graduate Certificate of Law",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CLAW"
+            },
+            {
+                "major": "Graduate Certificate of Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CMGMT"
+            },
+            {
+                "major": "Graduate Certificate of Management (Online)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CMGOL"
+            },
+            {
+                "major": "Graduate Certificate of Middle Eastern and Central Asian Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CMECA"
+            },
+            {
+                "major": "Graduate Certificate of Museum and Heritage Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CMUHS"
+            },
+            {
+                "major": "Graduate Certificate of National Security Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CNSEP"
+            },
+            {
+                "major": "Graduate Certificate of New Technologies Law",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CNTL"
+            },
+            {
+                "major": "Graduate Certificate of Nuclear Technology Regulation",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CNTR"
+            },
+            {
+                "major": "Graduate Certificate of Pacific Development",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CPADE"
+            },
+            {
+                "major": "Graduate Certificate of Policy Design and Analysis",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CPODA"
+            },
+            {
+                "major": "Graduate Certificate of Political Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CPOLS"
+            },
+            {
+                "major": "Graduate Certificate of Public Health",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CPUBH"
+            },
+            {
+                "major": "Graduate Certificate of Public Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CPBMA"
+            },
+            {
+                "major": "Graduate Certificate of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/6192XGCPPP"
+            },
+            {
+                "major": "Graduate Certificate of Regulation and Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CREGO"
+            },
+            {
+                "major": "Graduate Certificate of Regulation and Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CREGOL"
+            },
+            {
+                "major": "Graduate Certificate of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CSCIE"
+            },
+            {
+                "major": "Graduate Certificate of Science Communication",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/GCSCM"
+            },
+            {
+                "major": "Graduate Certificate of Social Research",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CSRES"
+            },
+            {
+                "major": "Graduate Certificate of Strategic Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CSTRAT"
+            },
+            {
+                "major": "Graduate Certificate of Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CSTUD"
+            },
+            {
+                "major": "Graduate Certificate of Technology Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CTEGO"
+            },
+            {
+                "major": "Graduate Certificate of Technology Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CTEGOL"
+            },
+            {
+                "major": "Graduate Certificate of the Repatriation of Ancestral Remains and Cultural Objects",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/CRARC"
+            },
+            {
+                "major": "Graduate Diploma of Applied Data Analytics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DADAN"
+            },
+            {
+                "major": "Graduate Diploma of Business",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DBUSI"
+            },
+            {
+                "major": "Graduate Diploma of Computing",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/6706XGDCP"
+            },
+            {
+                "major": "Graduate Diploma of Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DECON"
+            },
+            {
+                "major": "Graduate Diploma of Environment",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DENVI"
+            },
+            {
+                "major": "Graduate Diploma of International Affairs",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DIAFF"
+            },
+            {
+                "major": "Graduate Diploma of Professional Psychology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/GPPSY"
+            },
+            {
+                "major": "Graduate Diploma of Public Health",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DPUBH"
+            },
+            {
+                "major": "Graduate Diploma of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DPUBP"
+            },
+            {
+                "major": "Graduate Diploma of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/6600XGDSCI"
+            },
+            {
+                "major": "Graduate Diploma of Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/DSTUD"
+            },
+            {
+                "major": "Juris Doctor",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MJD"
+            },
+            {
+                "major": "Master of Accounting",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7414XMACCT"
+            },
+            {
+                "major": "Master of Actuarial Practice",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7420XMACTP"
+            },
+            {
+                "major": "Master of Actuarial Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7410XMACTS"
+            },
+            {
+                "major": "Master of Anthropology (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VANTP"
+            },
+            {
+                "major": "Master of Anthropology and Planetary Futures",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MAPF"
+            },
+            {
+                "major": "Master of Anthropology and Planetary Futures (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VAPF"
+            },
+            {
+                "major": "Master of Applied Accounting",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MAPAC"
+            },
+            {
+                "major": "Master of Applied Accounting and Master of Financial Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MAAMFM"
+            },
+            {
+                "major": "Master of Applied Anthropology and Development (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VAAAD"
+            },
+            {
+                "major": "Master of Applied Cybernetics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MACYB"
+            },
+            {
+                "major": "Master of Applied Cybernetics (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VACYB"
+            },
+            {
+                "major": "Master of Applied Data Analytics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MADAN"
+            },
+            {
+                "major": "Master of Applied Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MAPEC"
+            },
+            {
+                "major": "Master of Applied Finance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7421XMAPFN"
+            },
+            {
+                "major": "Master of Archaeological and Evolutionary Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MAESC"
+            },
+            {
+                "major": "Master of Archaeological and Evolutionary Science (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VAESC"
+            },
+            {
+                "major": "Master of Art History and Curatorial Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MAHST"
+            },
+            {
+                "major": "Master of Art History and Curatorial Studies (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VAHST"
+            },
+            {
+                "major": "Master of Arts - Arts Administration / Master of Museum and Heritage Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MMUAU"
+            },
+            {
+                "major": "Master of Asian and Pacific Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MANPS"
+            },
+            {
+                "major": "Master of Biotechnology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MBIOT"
+            },
+            {
+                "major": "Master of Biotechnology (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VBIOT"
+            },
+            {
+                "major": "Master of Business Administration",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MBUSA"
+            },
+            {
+                "major": "Master of Business Administration",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MBADM"
+            },
+            {
+                "major": "Master of Business Information Systems",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MBINS"
+            },
+            {
+                "major": "Master of Climate Change",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MCLIM"
+            },
+            {
+                "major": "Master of Clinical Psychology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7601XMCPSY"
+            },
+            {
+                "major": "Master of Commerce (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VCOMM"
+            },
+            {
+                "major": "Master of Computing",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7706XMCOMP"
+            },
+            {
+                "major": "Master of Computing (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VCOMP"
+            },
+            {
+                "major": "Master of Contemporary Art Practices",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MCAP"
+            },
+            {
+                "major": "Master of Contemporary Art Practices (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VCAP"
+            },
+            {
+                "major": "Master of Culture, Health and Medicine",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MCHAM"
+            },
+            {
+                "major": "Master of Culture, Health and Medicine (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VCHAM"
+            },
+            {
+                "major": "Master of Digital Humanities and Public Culture",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MDHPU"
+            },
+            {
+                "major": "Master of Digital Humanities and Public Culture (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VDHPU"
+            },
+            {
+                "major": "Master of Diplomacy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MDIP"
+            },
+            {
+                "major": "Master of Diplomacy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MDIPOL"
+            },
+            {
+                "major": "Master of Earth Sciences (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VEASC"
+            },
+            {
+                "major": "Master of Economic Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MECPO"
+            },
+            {
+                "major": "Master of Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MECON"
+            },
+            {
+                "major": "Master of Energy Change",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MENCH"
+            },
+            {
+                "major": "Master of Energy Change (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VENCH"
+            },
+            {
+                "major": "Master of Engaging Asia",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MENASI"
+            },
+            {
+                "major": "Master of Engineering in Electrical Engineering",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NELENG"
+            },
+            {
+                "major": "Master of Engineering in Energy Systems",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NENES"
+            },
+            {
+                "major": "Master of Engineering in Mechatronics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NMECH"
+            },
+            {
+                "major": "Master of Engineering in Renewable Energy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NENRE"
+            },
+            {
+                "major": "Master of Engineering in Robotics, Automation and Control",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NRAC"
+            },
+            {
+                "major": "Master of Entrepreneurship and Innovation",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MEINV"
+            },
+            {
+                "major": "Master of Environment",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MENVI"
+            },
+            {
+                "major": "Master of Environment (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VENVI"
+            },
+            {
+                "major": "Master of Environmental Management and Development",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MEMDV"
+            },
+            {
+                "major": "Master of Environmental Management and Development - Online",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MEMOL"
+            },
+            {
+                "major": "Master of Environmental and Resource Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MEREC"
+            },
+            {
+                "major": "Master of Environmental and Resource Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MERECO"
+            },
+            {
+                "major": "Master of Finance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7418XMFIN"
+            },
+            {
+                "major": "Master of Financial Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MFIEC"
+            },
+            {
+                "major": "Master of Financial Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MFINM"
+            },
+            {
+                "major": "Master of Financial Management and Law",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MFIML"
+            },
+            {
+                "major": "Master of Forests",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MFORS"
+            },
+            {
+                "major": "Master of Forests (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VFORS"
+            },
+            {
+                "major": "Master of General and Applied Linguistics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MGAL"
+            },
+            {
+                "major": "Master of General and Applied Linguistics (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VLING"
+            },
+            {
+                "major": "Master of Global Securities and Strategy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MGSS"
+            },
+            {
+                "major": "Master of Globalisation (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VGLOB"
+            },
+            {
+                "major": "Master of Heritage Tourism Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MHRTM"
+            },
+            {
+                "major": "Master of History",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MHIT"
+            },
+            {
+                "major": "Master of History (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VHIT"
+            },
+            {
+                "major": "Master of International Law and Diplomacy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MINLD"
+            },
+            {
+                "major": "Master of International Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MIMGT"
+            },
+            {
+                "major": "Master of International Relations",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MINTR"
+            },
+            {
+                "major": "Master of International and Development Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MIDECO"
+            },
+            {
+                "major": "Master of International and Development Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MIDEC"
+            },
+            {
+                "major": "Master of Laws",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MLLM"
+            },
+            {
+                "major": "Master of Machine Learning and Computer Vision",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MMLCV"
+            },
+            {
+                "major": "Master of Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MMGNT"
+            },
+            {
+                "major": "Master of Management (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VMGNT"
+            },
+            {
+                "major": "Master of Marketing Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MMKMT"
+            },
+            {
+                "major": "Master of Mathematical Sciences (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VMASC"
+            },
+            {
+                "major": "Master of Middle Eastern and Central Asian Studies (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VMECA"
+            },
+            {
+                "major": "Master of Middle Eastern and Central Asian Studies (MECAS)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MECAS"
+            },
+            {
+                "major": "Master of Museum and Heritage Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MMHS"
+            },
+            {
+                "major": "Master of Museum and Heritage Studies (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VMUHS"
+            },
+            {
+                "major": "Master of National Security Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MNSEP"
+            },
+            {
+                "major": "Master of Neuroscience",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MNEUR"
+            },
+            {
+                "major": "Master of Neuroscience (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VNEUR"
+            },
+            {
+                "major": "Master of Pacific Development",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPADE"
+            },
+            {
+                "major": "Master of Peace and Conflict Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPCS"
+            },
+            {
+                "major": "Master of Peace and Conflict Studies (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VPCS"
+            },
+            {
+                "major": "Master of Political Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPOLS"
+            },
+            {
+                "major": "Master of Political Science (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VPLSC"
+            },
+            {
+                "major": "Master of Preclinical Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPSC"
+            },
+            {
+                "major": "Master of Professional Accounting",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/7413XMPACC"
+            },
+            {
+                "major": "Master of Professional Psychology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPPSY"
+            },
+            {
+                "major": "Master of Project Management",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPROM"
+            },
+            {
+                "major": "Master of Public Administration",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPAD"
+            },
+            {
+                "major": "Master of Public Health",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPUBH"
+            },
+            {
+                "major": "Master of Public Health (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VPUBH"
+            },
+            {
+                "major": "Master of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPUPP"
+            },
+            {
+                "major": "Master of Public Policy/Master of Public Policy ANU - U Tokyo",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MPPAU"
+            },
+            {
+                "major": "Master of Regulation and Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MREGG"
+            },
+            {
+                "major": "Master of Regulation and Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MREGGO"
+            },
+            {
+                "major": "Master of Science (Advanced) in Agricultural Innovation",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCAI"
+            },
+            {
+                "major": "Master of Science (Advanced) in Astronomy and Astrophysics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCAA"
+            },
+            {
+                "major": "Master of Science (Advanced) in Biological Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCBS"
+            },
+            {
+                "major": "Master of Science (Advanced) in Materials Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCMC"
+            },
+            {
+                "major": "Master of Science (Advanced) in Nuclear Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCNS"
+            },
+            {
+                "major": "Master of Science (Advanced) in Precision Instrumentation and Measurement",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCPI"
+            },
+            {
+                "major": "Master of Science (Advanced) in Quantitative Biology and Bioinformatics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCQB"
+            },
+            {
+                "major": "Master of Science (Advanced) in Quantum Technology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCQT"
+            },
+            {
+                "major": "Master of Science (Advanced) in Theoretical Physics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSCTP"
+            },
+            {
+                "major": "Master of Science Communication",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MSCOM"
+            },
+            {
+                "major": "Master of Science in Agricultural Innovation",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCAI"
+            },
+            {
+                "major": "Master of Science in Astronomy & Astrophysics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCAA"
+            },
+            {
+                "major": "Master of Science in Biological Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCBS"
+            },
+            {
+                "major": "Master of Science in Earth Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCES"
+            },
+            {
+                "major": "Master of Science in Materials Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCMC"
+            },
+            {
+                "major": "Master of Science in Mathematical Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCMS"
+            },
+            {
+                "major": "Master of Science in Nuclear Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCNS"
+            },
+            {
+                "major": "Master of Science in Precision Instrumentation and Measurement",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCPI"
+            },
+            {
+                "major": "Master of Science in Quantitative Biology and Bioinformatics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCQB"
+            },
+            {
+                "major": "Master of Science in Quantum Technology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCQT"
+            },
+            {
+                "major": "Master of Science in Theoretical Physics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/NSCTP"
+            },
+            {
+                "major": "Master of Social Research Methods",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MSRM"
+            },
+            {
+                "major": "Master of Social Research Methods (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSRM"
+            },
+            {
+                "major": "Master of Statistical Data Analysis",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MSDA"
+            },
+            {
+                "major": "Master of Statistics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MSTAT"
+            },
+            {
+                "major": "Master of Strategic Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MSTRAT"
+            },
+            {
+                "major": "Master of Strategic Studies (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VSTST"
+            },
+            {
+                "major": "Master of Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MSTD"
+            },
+            {
+                "major": "Master of Technology Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MTEGOL"
+            },
+            {
+                "major": "Master of Technology Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/MTEGO"
+            },
+            {
+                "major": "Master of Translation (Advanced)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/VTRAN"
+            },
+            {
+                "major": "Doctor of Philosophy, School of Computing",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9714XPHD"
+            },
+            {
+                "major": "Doctor of Laws",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9300XLLD"
+            },
+            {
+                "major": "Doctor of Letters",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9101XLITTD"
+            },
+            {
+                "major": "Doctor of Medicine",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9911XMD"
+            },
+            {
+                "major": "Doctor of Philosophy (Clinical Psychology)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9064XCLPSY"
+            },
+            {
+                "major": "Doctor of Philosophy, ANU College of Business and Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9040XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, ANU College of Law",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9030XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Astronomy and Astrophysics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9670XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Australian National Centre for the Public Awareness of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9603XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Biology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9066XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Chemistry",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9620XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Crawford School of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9540XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Culture History and Languages",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9050XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Earth Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9640XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Fenner School of Environment and Society",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9065XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, International, Political and Strategic Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9510XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, John Curtin School of Medical Research",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9710XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Mathematical Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9650XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Medicine",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9910XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, National Security College",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9850XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Physics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9680XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Population Health",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9602XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Psychology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9723XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Regulation and Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9560XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Research School of Humanities and the Arts",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9552XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Research School of Social Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9520XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, School of Cybernetics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9073XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, School of Engineering",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9715XPHD"
+            },
+            {
+                "major": "Doctor of Philosophy, Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9060XPHD"
+            },
+            {
+                "major": "Doctor of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/9600XDSCI"
+            },
+            {
+                "major": "Master of Philosophy (MPhil), ANU College of Law",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8030XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy in Applied Epidemiology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8721XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, ANU College of Business and Economics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8040XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, ANU College of Engineering and Computer Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8070XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, ANU Colleges of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8060XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Astronomy and Astrophysics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8670XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Australian National Centre for the Public Awareness of Science",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8603XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Biology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8066XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Chemistry",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8620XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Crawford School of Public Policy",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8540XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Culture, History and Languages",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8050XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Earth Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8640XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Fenner School of Environment and Society",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8065XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, International, Political and Strategic Studies",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8510XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, John Curtin School of Medical Research",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8710XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Mathematical Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8650XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Medicine",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8910XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, National Security College",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8850XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Physics",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8680XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Population Health",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8601XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Psychology",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8723XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Regulation and Governance",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8560XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Research School of Humanities and the Arts",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8551XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, Research School of Social Sciences",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8520XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, School of Computing",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8714XMPHIL"
+            },
+            {
+                "major": "Master of Philosophy, School of Engineering",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/8715XMPHIL"
+            },
+            {
+                "major": "ANU Summer Research Scholarship Program",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1006XSRS"
+            },
+            {
+                "major": "Cross Institutional - College of Asia and the Pacific Language Partnership",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1152XNAWD"
+            },
+            {
+                "major": "Global Summer Program (Postgraduate)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5036XGSPP"
+            },
+            {
+                "major": "Global Summer Program (Undergraduate)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1305XGSPU"
+            },
+            {
+                "major": "Graduate Bridging Program (Crawford School of Public Policy)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5082XCRWFD"
+            },
+            {
+                "major": "Graduate Exchange Program",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5031XNAWD"
+            },
+            {
+                "major": "Graduate Exchange Program",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5034XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5050XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award (ANU College of Law)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5130XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award (ANU Colleges of Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5160XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award (College of Asia and the Pacific)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5150XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award (College of Engineering and Computer Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5170XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award (Research)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5092XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award Cross Institutional (ANU College of Medicine Biology and Environment)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5191XCMHS"
+            },
+            {
+                "major": "Graduate Non-Award Cross-Institutional",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5051XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award Cross-Institutional (ANU College of Asia and the Pacific)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5151XCAP"
+            },
+            {
+                "major": "Graduate Non-Award Cross-Institutional (ANU College of Business and Economics)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5141XCBE"
+            },
+            {
+                "major": "Graduate Non-Award Cross-Institutional (ANU College of Engineering and Computer Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5172XCECS"
+            },
+            {
+                "major": "Graduate Non-Award Cross-Institutional (ANU College of Law)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5131XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award Cross-Institutional (ANU Colleges of Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5162XCOS"
+            },
+            {
+                "major": "Graduate Non-Award MOOC Exchange",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5003XNAWD"
+            },
+            {
+                "major": "Graduate Non-Award, National Security College",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5179XNSC"
+            },
+            {
+                "major": "Joint Degree Program National University Singapore -The Australian National University",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/5035XJOINT"
+            },
+            {
+                "major": "Non Award (ANU College of Business and Economics)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1140XNAWD"
+            },
+            {
+                "major": "Non Award Cross Institutional",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1302XNAWD"
+            },
+            {
+                "major": "Non Award Cross-Institutional (ANU College of Business and Economics)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1141XNAWD"
+            },
+            {
+                "major": "Non Award Exchange Program (12 Months)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1301XNAWD"
+            },
+            {
+                "major": "Non Award Exchange Program (6 Months)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1301XNAWD6"
+            },
+            {
+                "major": "Non Award – Open Universities Australia",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1155XNAWD"
+            },
+            {
+                "major": "Non-Award (ANU College of Engineering and Computer Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1170XNAWD"
+            },
+            {
+                "major": "Non-Award (ANU Colleges of Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1160XNAWD"
+            },
+            {
+                "major": "Non-Award (ANU Medical School)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1190XNAWD"
+            },
+            {
+                "major": "Non-Award Arts (ANU College of Arts and Social Sciences)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1110XNAWD"
+            },
+            {
+                "major": "Non-Award Cross-Institutional (ANU College of Arts and Social Sciences)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1111XNAWD"
+            },
+            {
+                "major": "Non-Award Cross-Institutional (ANU College of Asia and the Pacific)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1151XNAWD"
+            },
+            {
+                "major": "Non-Award Cross-Institutional (ANU College of Engineering and Computer Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1171XNAWD"
+            },
+            {
+                "major": "Non-Award Cross-Institutional (ANU College of Law)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1131XNAWD"
+            },
+            {
+                "major": "Non-Award Cross-Institutional (ANU Colleges of Science)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1161XNAWD"
+            },
+            {
+                "major": "Non-Award Cross-Institutional National Institute of the Arts/University of Canberra",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1005XNAWD"
+            },
+            {
+                "major": "Non-Award Law (ANU College of Law)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1130XNAWD"
+            },
+            {
+                "major": "Non-Award MOOC Exchange",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1303XNAWD"
+            },
+            {
+                "major": "Non-Award Study Abroad Program (12 Months)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1300XNAW12"
+            },
+            {
+                "major": "Non-Award Study Abroad Program (6 Months)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1300XNAWD6"
+            },
+            {
+                "major": "UG Non-Award (College of Asia and the Pacific)",
+                "details_url": "https://programsandcourses.anu.edu.au/2024/program/1150XNAWD"
+            }
+        ],
+        "logo": "https://s.id/1ohSv"
+    }
 ]
