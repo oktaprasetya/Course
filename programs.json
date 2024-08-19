@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Product 1",
+        "image": "https://example.com/product1.jpg",
+        "price": 100,
+        "detail": "Detail of product 1",
+        "addons": [
+            {"name": "Add-on 1", "price": 20},
+            {"name": "Add-on 2", "price": 30}
+        ]
+    },
+    {
+        "title": "Product 2",
+        "image": "https://example.com/product2.jpg",
+        "price": 150,
+        "detail": "Detail of product 2",
+        "addons": [
+            {"name": "Add-on 1", "price": 25},
+            {"name": "Add-on 2", "price": 35}
+        ]
+    }
+]
