@@ -2,6 +2,7 @@
     {
         "university": "Australian National University",
         "country": "Australia",
+        "logo": "https://s.id/1ohSv",
         "programs": [
             {
                 "major": "Flexible Double Degree - Arts, Social Sciences, Business, Science",
@@ -1587,12 +1588,12 @@
                 "major": "UG Non-Award (College of Asia and the Pacific)",
                 "details_url": "https://programsandcourses.anu.edu.au/2024/program/1150XNAWD"
             }
-        ],
-        "logo": "https://s.id/1ohSv"
+        ]
     },
     {
         "university": "The University Of Queensland (UQ)",
         "country": "Australia",
+        "logo": "http://tiny.cc/h8unyz",
         "programs": [
             {"major": "Bachelor Honours of Advanced Business (Honours) in Accounting","details_url": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ACCNTC2139}"},
 {"major": "Bachelor Honours of Advanced Business (Honours) in Business Analytics","details_url": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=BUSANC2139}"},
@@ -3892,8 +3893,7 @@
 {"major": "Bachelor of Veterinary Technology in Veterinary Technology","details_url": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2387}"},
 {"major": "Bachelor Honours of Veterinary Technology (Honours) in Veterinary Technology (Honours)","details_url": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2422}"},
 {"major": "Bachelor of Wildlife Science in Wildlife Science","details_url": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2388}"},
-{"major": "Bachelor Honours of Wildlife Science (Honours) in Wildlife Science (Honours)","details_url": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2419}"},
-        ],
-        "logo": "http://tiny.cc/h8unyz"
-    }
+{"major": "Bachelor Honours of Wildlife Science (Honours) in Wildlife Science (Honours)","details_url": "https://my.uq.edu.au/programs-courses/program.html?acad_prog=2419}"}
+    ]
+  }
 ]
