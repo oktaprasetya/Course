@@ -1,6 +1,6 @@
-[
+{
   "universityLogo": "https://s.id/1ohSv",
-  "major": 
+  "course": [ 
     {"course": "Flexible Double Degree - Arts, Social Sciences, Business, Science","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/4050FDD"},
     {"course": "Bachelor of Accounting","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/BACCT"},
     {"course": "Bachelor of Accounting (Honours)","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/HACCT"},
@@ -399,3 +399,4 @@
     {"course": "UG Non-Award (College of Asia and the Pacific)","program": "Non Award","link": "https://programsandcourses.anu.edu.au/2024/program/1150XNAWD"}
 
   ]
+}
