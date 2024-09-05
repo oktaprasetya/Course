@@ -3033,7 +3033,7 @@
         "country": "China",
         "logo": "http://tiny.cc/ss-shenzhen-university",
         "programs": [
-            {"major": "Bachelor of Economics in International Economics and Trade","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=SBE24052113442"}
+            {"major": "Bachelor of Economics in International Economics and Trade (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=SBE24052113442"}
 
 
         ]
@@ -3044,7 +3044,7 @@
         "country": "China",
         "logo": "http://tiny.cc/SS-USTB",
         "programs": [
-            {"major": "Bachelor of Economics in International Economics and Trade (1+3)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade-%281%2B3%29&ProgramID=SBC24032211867"}
+            {"major": "Bachelor of Economics in International Economics and Trade (1+3) (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade-%281%2B3%29&ProgramID=SBC24032211867"}
 
 
         ]
@@ -3054,11 +3054,40 @@
         "country": "China",
         "logo": "http://tiny.cc/SS-Northeast",
         "programs": [
-            {"major": "Bachelor of Economics in International Economics and trade","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-trade&ProgramID=SBC24032211676"}
+            {"major": "Bachelor of Economics in International Economics and trade (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-trade&ProgramID=SBC24032211676"},
+            {"major": "Bachelor of Economics in International Economics and trade (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-trade&ProgramID=SBE24032211687"},
+            {"major": "Master of Economics in Applied Economics (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Applied-Economics&ProgramID=SMC24032211755"},
+            {"major": "Master of Economics in Applied Economics (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Applied-Economics&ProgramID=SME24032211765"}
+
+
+
+        ]
+    },
+    {
+        "university": "Jiangsu University",
+        "country": "China",
+        "logo": "http://tiny.cc/ss-jiangsu-university",
+        "programs": [
+            {"major": "Bachelor of Economics in International Economy and Trade (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economy-and-Trade&ProgramID=SBE2310120701"}
+
+
+
+        ]
+    },
+    {
+        "university": "Nanchang University",
+        "country": "China",
+        "logo": "http://tiny.cc/SS-Nanchang-University",
+        "programs": [
+            {"major": "Bachelor of Economics in Financial Mathematics (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Financial-Mathematics&ProgramID=SBC2401189381"},
+            {"major": "Bachelor of Economics (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Economics&ProgramID=SBC2312197713"},
+            {"major": "Bachelor of Economics in Finance (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Finance&ProgramID=SBC2312197715"}
+
 
 
         ]
     }
+
 
 
 
