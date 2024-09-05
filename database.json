@@ -3057,7 +3057,12 @@
             {"major": "Bachelor of Economics in International Economics and trade (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-trade&ProgramID=SBC24032211676"},
             {"major": "Bachelor of Economics in International Economics and trade (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-trade&ProgramID=SBE24032211687"},
             {"major": "Master of Economics in Applied Economics (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Applied-Economics&ProgramID=SMC24032211755"},
-            {"major": "Master of Economics in Applied Economics (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Applied-Economics&ProgramID=SME24032211765"}
+            {"major": "Master of Economics in Applied Economics (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Applied-Economics&ProgramID=SME24032211765"},
+            {"major": "Doctoral of Management in Agricultural and Forestry Economic Management (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Agricultural-and-Forestry-Economic-Management&ProgramID=SDC24032211634"},
+            {"major": "Bachelor of Management in Engineering Management (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Engineering-Management&ProgramID=SBC24032211669"},
+            {"major": "Master of Management in Management Science and Engineering (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Management-Science-and-Engineering&ProgramID=SMC24032211714"},
+            {"major": "Master of Management in Agricultural and Forestry Economic Management (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Agricultural-and-Forestry-Economic-Management&ProgramID=SMC24032211739"},
+            {"major": "Master of Management in Business Administration (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Business-Administration&ProgramID=SMC24032211756"}
 
 
 
@@ -3068,7 +3073,9 @@
         "country": "China",
         "logo": "http://tiny.cc/ss-jiangsu-university",
         "programs": [
-            {"major": "Bachelor of Economics in International Economy and Trade (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economy-and-Trade&ProgramID=SBE2310120701"}
+            {"major": "Bachelor of Economics in International Economy and Trade (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economy-and-Trade&ProgramID=SBE2310120701"},
+            {"major": "Bachelor of Management in Business Administration (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Business-Administration&ProgramID=SBE2310120700"},
+            {"major": "Bachelor of Management in Accounting (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Accounting&ProgramID=SBE23032815118"}
 
 
 
@@ -3081,7 +3088,9 @@
         "programs": [
             {"major": "Bachelor of Economics in Financial Mathematics (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Financial-Mathematics&ProgramID=SBC2401189381"},
             {"major": "Bachelor of Economics (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Economics&ProgramID=SBC2312197713"},
-            {"major": "Bachelor of Economics in Finance (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Finance&ProgramID=SBC2312197715"}
+            {"major": "Bachelor of Economics in Finance (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Finance&ProgramID=SBC2312197715"},
+            {"major": "Bachelor of management in Management Science (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Management-Science&ProgramID=SBC2401189370"},
+            {"major": "Bachelor of Management in Administrative Management (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Administrative-Management&ProgramID=SBC2401189371"}
 
 
 
@@ -3096,6 +3105,19 @@
             {"major": "Bachelor of Economics in International Economics and Trade (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=BAC24072914049"},
             {"major": "Bachelor of Economics in Financial Services and Management (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"}
 
+
+
+        ]
+    },
+
+    {
+        "university": "Ningbo University Of Technology",
+        "country": "China",
+        "logo": "http://tiny.cc/SS-ningbo",
+        "programs": [
+            {"major": "Bachelor of Management in Accounting (Sino-US Double Degree) (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Accounting-%28Sino-US-Double-Degree%29&ProgramID=SBE24040212528"},
+            {"major": "Master of Management in Engineering Management (Chinese)","details_url": "https://www.eduprchina.com/self-financed/details?program=Engineering-Management&ProgramID=SMC24040212529"},
+            {"major": "Master of Management in Engineering Management (English)","details_url": "https://www.eduprchina.com/self-financed/details?program=Engineering-Management&ProgramID=SME24040212530"}
 
 
         ]
