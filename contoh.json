@@ -1,0 +1,25 @@
+{
+  "universities": 
+  [
+    {
+      "universityId": 1,
+      "name": "The University of Qieensland",
+      "universityLogo": "http://tiny.cc/SS-UQ",
+      "courses": 
+      [
+        {"courseId": 101,"course": "Bachelor of Science","program": "Undergraduate","link": "https://unimelb.edu.au/science"},
+        {"courseId": 102,"course": "Master of Data Science","program": "Postgraduate","link": "https://unimelb.edu.au/data-science"}
+      ]
+    },
+    {
+      "universityId": 2,
+      "name": "Australian National University",
+      "universityLogo": "http://tiny.cc/SS-ANU",
+      "courses": 
+      [
+        {"courseId": 201,"course": "Bachelor of Arts","program": "Undergraduate","link": "https://anu.edu.au/arts"},
+        {"courseId": 202,"course": "Master of International Relations","program": "Postgraduate","link": "https://anu.edu.au/international-relations"}
+      ]
+    }
+  ]
+}
