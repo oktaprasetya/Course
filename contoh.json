@@ -418,7 +418,7 @@
      {
       "universityId": 3,
       "name": "The University of New South Wales (UNSW)",
-      "universityLogo": "http://tiny.cc/SS-UQ",
+      "universityLogo": "http://tiny.cc/SS-UNSW",
       "courses": 
       [
         {"courseId":301,"course": "AGSM Graduate Certificate in Change Management","program": "Graduate Certificate","link": "https://www.unsw.edu.au/study/postgraduate/agsm-graduate-certificate-in-change-management"},
