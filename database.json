@@ -2710,9 +2710,9 @@
         ]
     },
     {
-    "university": "The University Of Queensland (UQ)",
+    "university": "University of New South Wales (UNSW)",
     "country": "Australia",
-    "logo": "http://tiny.cc/SS-UQ",
+    "logo": "http://tiny.cc/SS-UNSW",
     "programs": [
             {"course": "AGSM Graduate Certificate in Change Management","details_url": "https://www.unsw.edu.au/study/postgraduate/agsm-graduate-certificate-in-change-management"},
             {"course": "AGSM Graduate Certificate in Digital Innovation","details_url": "https://www.unsw.edu.au/study/postgraduate/agsm-graduate-certificate-in-digital-innovation"},
