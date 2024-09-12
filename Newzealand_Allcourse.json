@@ -304,8 +304,5 @@
         {"courseId":1196 ,"course": "Teaching and Learning","program": "Postgraduate Diploma","link": "https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-diploma-in-teaching-and-learning"},
         {"courseId":1197 ,"course": "Visual Arts","program": "Bachelor","link": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/bachelor-of-visual-arts"},
         {"courseId":1198 ,"course": "Visual Arts","program": "Master","link": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/master-of-visual-arts"}
-
       ]
     }
-  ]
-}
