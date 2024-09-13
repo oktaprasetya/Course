@@ -3547,6 +3547,39 @@
 
 
         ]
+    },
+
+    {
+        "university": "Anglia Ruskin Unievrsity",
+        "country": "UK",
+        "logo": "http://tiny.cc/SS-ARU",
+        "programs": [
+            {"major": "BSc (Hons) Accounting and Finance","details_url": "https://www.aru.ac.uk/study/undergraduate/accounting-and-finance"},
+            {"major": "BA (Hons) Acting","details_url": "https://www.aru.ac.uk/study/undergraduate/acting"},
+            {"major": "BSc (Hons) Agriculture","details_url": "https://www.aru.ac.uk/study/undergraduate/agriculture"},
+            {"major": "BSc (Hons), CertHE Agriculture (Regenerative Systems and Livestock)","details_url": "https://www.aru.ac.uk/study/undergraduate/agriculture-regenerative-systems-and-livestock"},
+            {"major": "BSc (Hons), CertHE Agriculture (Regenerative Systems)","details_url": "https://www.aru.ac.uk/study/undergraduate/agriculture-regenerative-systems"},
+            {"major": "BSc (Hons) Animal Behaviour","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-behaviour"},
+            {"major": "BSc (Hons), CertHE Animal Management","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management"},
+            {"major": "BSc (Hons), CertHE Animal Management (Bioveterinary Science)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-bioveterinary-science"},
+            {"major": "BSc (Hons), CertHE Animal Management (Livestock Technology)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-livestock-technology"},
+            {"major": "BSc (Hons), CertHE Animal Management (Pet Behaviour and Welfare)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-pet-behaviour-and-welfare"},
+            {"major": "BSc (Hons), CertHE Animal Management (Zoo and Wildlife Conservation)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-zoo-and-wildlife-conservation"},
+            {"major": "BSc (Hons), CertHE Animal Science","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science"},
+            {"major": "BSc (Hons), CertHE, DipHE Animal Science (Bioveterinary Science)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-bioveterinary-science"},
+            {"major": "BSc (Hons), CertHE Animal Science (Livestock Technology)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-livestock-technology"},
+            {"major": "BSc (Hons), CertHE Animal Science (Pet Behaviour and Welfare)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-pet-behaviour-and-welfare"},
+            {"major": "BSc (Hons), CertHE Animal Science (Zoo and Wildlife Conservation)","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-zoo-and-wildlife-conservation"},
+            {"major": "BSc (Hons) Animal Therapy","details_url": "https://www.aru.ac.uk/study/undergraduate/animal-therapy"},
+            {"major": "BA (Hons) Animation and Illustration","details_url": "https://www.aru.ac.uk/study/undergraduate/animation-and-illustration"},
+            {"major": "BSc (Hons) Applied Sport Science and Coaching (Top Up)","details_url": "https://www.aru.ac.uk/study/undergraduate/applied-sport-science-and-coaching-top-up"},
+            {"major": "BA (Hons), BSc (Hons) Architecture","details_url": "https://www.aru.ac.uk/study/undergraduate/architecture"},
+            {"major": "BSc (Hons) Artificial Intelligence","details_url": "https://www.aru.ac.uk/study/undergraduate/artificial-intelligence"},
+            {"major": "BSc (Hons) Audio & Music Technology","details_url": "https://www.aru.ac.uk/study/undergraduate/audio-and-music-technology"},
+        
+
+
+        ]
     }
 
 
