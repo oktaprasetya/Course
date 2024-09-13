@@ -1,0 +1,36 @@
+{
+  "universities": 
+  [
+    {
+      "universityId": 1,
+      "name": "Anglia Ruskin University",
+      "universityLogo": "http://tiny.cc/SS-ARU",
+      "courses": 
+      [
+        {"courseId":101 ,"course": "BSc (Hons) Accounting and Finance","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/accounting-and-finance"},
+        {"courseId":101 ,"course": "BA (Hons) Acting","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/acting"},
+        {"courseId":101 ,"course": "BSc (Hons) Agriculture","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/agriculture"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Agriculture (Regenerative Systems and Livestock)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/agriculture-regenerative-systems-and-livestock"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Agriculture (Regenerative Systems)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/agriculture-regenerative-systems"},
+        {"courseId":101 ,"course": "BSc (Hons) Animal Behaviour","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-behaviour"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Management","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-management"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Management (Bioveterinary Science)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-management-bioveterinary-science"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Management (Livestock Technology)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-management-livestock-technology"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Management (Pet Behaviour and Welfare)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-management-pet-behaviour-and-welfare"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Management (Zoo and Wildlife Conservation)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-management-zoo-and-wildlife-conservation"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Science","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-science"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE, DipHE Animal Science (Bioveterinary Science)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-science-bioveterinary-science"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Science (Livestock Technology)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-science-livestock-technology"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Science (Pet Behaviour and Welfare)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-science-pet-behaviour-and-welfare"},
+        {"courseId":101 ,"course": "BSc (Hons), CertHE Animal Science (Zoo and Wildlife Conservation)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-science-zoo-and-wildlife-conservation"},
+        {"courseId":101 ,"course": "BSc (Hons) Animal Therapy","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animal-therapy"},
+        {"courseId":101 ,"course": "BA (Hons) Animation and Illustration","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/animation-and-illustration"},
+        {"courseId":101 ,"course": "BSc (Hons) Applied Sport Science and Coaching (Top Up)","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/applied-sport-science-and-coaching-top-up"},
+        {"courseId":101 ,"course": "BA (Hons), BSc (Hons) Architecture","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/architecture"},
+        {"courseId":101 ,"course": "BSc (Hons) Artificial Intelligence","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/artificial-intelligence"},
+        {"courseId":101 ,"course": "BSc (Hons) Audio & Music Technology","program": "Bachelor","link": "https://www.aru.ac.uk/study/undergraduate/audio-and-music-technology"},
+
+      ]
+    }
+  ]
+}
