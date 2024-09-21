@@ -3113,7 +3113,18 @@
             {"major": "Science Graduate Diploma (Research)","details_url": "https://www.unsw.edu.au/study/postgraduate/graduate-diploma-in-science-research"}
         ]
     },
-    
+
+    {
+        "university": "University of Western Australia (UWA)",
+        "country": "Australia",
+        "logo": "http://tiny.cc/SS-UWA",
+        "programs": [
+            {"major": "Bachelor of Sport and Recreation (Honours)","details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-and-recreation-honours"},
+
+
+            
+        ]
+    },
     {
         "university": "Auckland University of Technology (AUT)",
         "country": "NewZealand",
