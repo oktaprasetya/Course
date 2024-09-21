@@ -3124,8 +3124,19 @@
       "universityLogo": "http://tiny.cc/SS-UWA",
       "courses": 
       [
-        {"courseId":401,"course":"Pukimak","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=BAC24072914049"},
-        {"courseId":402,"course":"Bachelor of Economics in Financial Services and Management (Chinese)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"}
+        {"courseId":401,"course":"Bachelor of Music","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/music"},
+        {"courseId":402,"course":"Bachelor of Social Work","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/social-work"},
+        {"courseId":403,"course":"Bachelor of Korean Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/korean-studies"},
+        {"courseId":404,"course":"Bachelor of Chinese Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/chinese-studies"},
+        {"courseId":405,"course":"Bachelor of Primary Education","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/primary-education"},
+        {"courseId":406,"course":"Bachelor of Indonesian Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/indonesian-studies"},
+        {"courseId":407,"course":"Bachelor of Pharmaceutical Health","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/pharmaceutical-health"},
+        {"courseId":408,"course":"Bachelor of Finance","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/finance"},
+        {"courseId":409,"course":"Bachelor of Chinese Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/chinese"},
+        {"courseId":410,"course":"Bachelor of Physics","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/physics"}
+
+
+        
 
       ]
     }
