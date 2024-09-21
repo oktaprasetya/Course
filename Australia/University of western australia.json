@@ -1,0 +1,18 @@
+{
+  "universityLogo": "http://tiny.cc/SS-ANU",
+  "university": "Australian National University (ANU)",
+  "courses": [
+    {"course": "Bachelor of Music","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/music"},
+    {"course": "Bachelor of Social Work","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/social-work"},
+    {"course": "Bachelor of Korean Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/korean-studies"},
+    {"course": "Bachelor of Chinese Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/chinese-studies"},
+    {"course": "Bachelor of Primary Education","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/primary-education"},
+    {"course": "Bachelor of Indonesian Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/indonesian-studies"},
+    {"course": "Bachelor of Pharmaceutical Health","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/pharmaceutical-health"},
+    {"course": "Bachelor of Finance","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/finance"},
+    {"course": "Bachelor of Chinese Studies","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/chinese"},
+    {"course": "Bachelor of Physics","program": "Undergraduate","link": "https://www.uwa.edu.au/study/courses/physics"},
+
+   
+  ]
+}
