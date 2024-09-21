@@ -3114,15 +3114,18 @@
         {"courseId":3295,"course": "Master of War Studies (Canberra)","program": "Masters","link": "https://www.unsw.edu.au/study/postgraduate/master-of-war-studies"},
         {"courseId":3296,"course": "Science Graduate Diploma (Research)","program": "Graduate Diploma","link": "https://www.unsw.edu.au/study/postgraduate/graduate-diploma-in-science-research"},
         {"courseId":3297,"course": "UG Non-Award (College of Asia and the Pacific)","program": "Non Award","link": "https://programsandcourses.anu.edu.au/2024/program/1150XNAWD"}
+
+        
       ]
     },
-     {
+    {
       "universityId": 4,
       "name": "University of Western Australia (UWA)",
-      "universityLogo": "http://tiny.cc/SS-UWA",
+      "universityLogo": "http://tiny.cc/SS-UWA"",
       "courses": 
       [
-        {"courseId":301,"course": "AGSM Graduate Certificate in Change Management","program": "Graduate Certificate","link": "https://www.unsw.edu.au/study/postgraduate/agsm-graduate-certificate-in-change-management"}
+        {"courseId":701,"course":"Bachelor of Management in Accounting (Sino-US Double Degree) (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=BAC24072914049"},
+        {"courseId":702,"course":"Bachelor of Economics in Financial Services and Management (Chinese)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"}
 
       ]
     }
