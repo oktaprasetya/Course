@@ -3116,6 +3116,15 @@
         {"courseId":3297,"course": "UG Non-Award (College of Asia and the Pacific)","program": "Non Award","link": "https://programsandcourses.anu.edu.au/2024/program/1150XNAWD"}
 
       ]
-    }
+    },
+     {
+      "universityId": 4,
+      "name": "University of Western Australia (UWA)",
+      "universityLogo": "http://tiny.cc/SS-UWA",
+      "courses": 
+      [
+        {"courseId":301,"course": "AGSM Graduate Certificate in Change Management","program": "Graduate Certificate","link": "https://www.unsw.edu.au/study/postgraduate/agsm-graduate-certificate-in-change-management"}
+     
+     }
   ]
 }
