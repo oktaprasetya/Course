@@ -3124,8 +3124,8 @@
       "universityLogo": "http://tiny.cc/SS-UWA",
       "courses": 
       [
-        {"courseId":701,"course":"Bachelor of Management in Accounting (Sino-US Double Degree) (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=BAC24072914049"},
-        {"courseId":702,"course":"Bachelor of Economics in Financial Services and Management (Chinese)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"}
+        {"courseId":401,"course":"Pukimak","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=BAC24072914049"},
+        {"courseId":402,"course":"Bachelor of Economics in Financial Services and Management (Chinese)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"}
 
       ]
     }
