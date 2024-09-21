@@ -3119,7 +3119,18 @@
         "country": "Australia",
         "logo": "http://tiny.cc/SS-UWA",
         "programs": [
-            {"major": "Bachelor of Sport and Recreation (Honours)","details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-and-recreation-honours"},
+            {"major": "Bachelor of Music","details_url": "https://www.uwa.edu.au/study/courses/music"},
+            {"major": "Bachelor of Social Work","details_url": "https://www.uwa.edu.au/study/courses/social-work"},
+            {"major": "Bachelor of Korean Studies","details_url": "https://www.uwa.edu.au/study/courses/korean-studies"},
+            {"major": "Bachelor of Chinese Studies","details_url": "https://www.uwa.edu.au/study/courses/chinese-studies"},
+            {"major": "Bachelor of Primary Education","details_url": "https://www.uwa.edu.au/study/courses/primary-education"},
+            {"major": "Bachelor of Indonesian Studies","details_url": "https://www.uwa.edu.au/study/courses/indonesian-studies"},
+            {"major": "Bachelor of Pharmaceutical Health","details_url": "https://www.uwa.edu.au/study/courses/pharmaceutical-health"},
+            {"major": "Bachelor of Finance","details_url": "https://www.uwa.edu.au/study/courses/finance"},
+            {"major": "Bachelor of Chinese Studies","details_url": "https://www.uwa.edu.au/study/courses/chinese"},
+            {"major": "Bachelor of Physics","details_url": "https://www.uwa.edu.au/study/courses/physics"}
+
+
 
 
             
