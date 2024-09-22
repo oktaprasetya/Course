@@ -1,9 +1,0 @@
-{
-  "universityLogo": "http://tiny.cc/ss-jiangsu-university",
-  "university": "Jiangsu University",
-  "courses": [
-    {"course": "Bachelor of Economics in International Economy and Trade (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economy-and-Trade&ProgramID=SBE2310120701"},
-    {"course": "Bachelor of Management in Business Administration (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Business-Administration&ProgramID=SBE2310120700"},
-    {"course": "Bachelor of Management in Accounting (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Accounting&ProgramID=SBE23032815118"}
-  ]
-}
