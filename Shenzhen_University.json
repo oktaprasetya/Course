@@ -1,4 +1,9 @@
-[
-{"universityLogo": "http://tiny.cc/ss-shenzhen-university", "course": "Bachelor of Economics in International Economics and Trade (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=SBE24052113442"}
+{
+  "universityLogo": "http://tiny.cc/ss-shenzhen-university",
+  "university": "Shenzhen_University",
+  "courses": [
+    {"course": "Bachelor of Economics in International Economics and Trade (English)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=SBE24052113442"}
 
-]
+   
+  ]
+}
