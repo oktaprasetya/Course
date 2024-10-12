@@ -634,5 +634,41 @@
     "price": "IDR. 1.050.000 / Month",
     "consultation_link": "https://wa.me/6281514693736",
     "registration_link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "provider": "Sastra Lingua Indonesia",
+    "provider_image": "http://tiny.cc/SS-sastralingua",
+    "program": "English Class",
+    "program_type": "Semi Private (2-3 orang)",
+    "class_type": "Online",
+    "level": "All Level",
+    "meetings": "8 Meetings / Month",
+    "price": "IDR. 550.000 / Month",
+    "consultation_link": "https://wa.me/6281514693736",
+    "registration_link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "provider": "Sastra Lingua Indonesia",
+    "provider_image": "http://tiny.cc/SS-sastralingua",
+    "program": "English Class",
+    "program_type": "Exclusive Group (4-5 orang)",
+    "class_type": "Online",
+    "level": "All Level",
+    "meetings": "8 Meetings / Month",
+    "price": "IDR. 400.000 / Month",
+    "consultation_link": "https://wa.me/6281514693736",
+    "registration_link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "provider": "Sastra Lingua Indonesia",
+    "provider_image": "http://tiny.cc/SS-sastralingua",
+    "program": "English Class",
+    "program_type": "Group (6-10 orang)",
+    "class_type": "Online",
+    "level": "All Level",
+    "meetings": "8 Meetings / Month",
+    "price": "IDR. 350.000 / Month",
+    "consultation_link": "https://wa.me/6281514693736",
+    "registration_link": "https://form.jotform.com/241242015126441"
   }
 ]
