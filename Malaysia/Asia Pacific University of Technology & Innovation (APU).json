@@ -94,6 +94,25 @@
           {"courseId":190,"course":"PhD in Management","program": "Postgraduate","link": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/phd-management"},
           {"courseId":191,"course":"PhD in Finance","program": "Postgraduate","link": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programme/doctor-philosophy-finance"},
           {"courseId":192,"course":"Doctor of Philosophy in Engineering","program": "Postgraduate","link": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/doctor-philosophy-engineering"},
-          {"courseId":193,"course":"Doctor of Business Administration (DBA)","program": "Postgraduate","link": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/doctor-business-administration-dba"}
+          {"courseId":193,"course":"Doctor of Business Administration (DBA)","program": "Postgraduate","link": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/doctor-business-administration-dba"},
+          {"courseId":194,"course":"Diploma in Information & Communication Technology","program": "Diploma","link": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-information-communications-technolog-0"},
+          {"courseId":195,"course":"Diploma in Information & Communication Technology with a specialism in Software Engineering","program": "Diploma","link": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-information-communications-technology"},
+          {"courseId":196,"course":"Diploma in Information & Communication Technology with a specialism in Data Informatics","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-information-communication-technology-data-informatics"},
+          {"courseId":197,"course":"Diploma in Information & Communication Technology with a specialism in Interactive Technology","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-ict-interactive-technology"},
+          {"courseId":198,"course":"Diploma in Business with Information Technology","program": "Diploma","link": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-business-information-technology"},
+          {"courseId":199,"course":"Diploma in Business Administration","program": "Diploma","link": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-business-administration"},
+          {"courseId":1000,"course":"Diploma in Accounting","program": "Diploma","link": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-accounting"},
+          {"courseId":1001,"course":"Diploma in Mechatronic Engineering","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-mechatronic-engineering"},
+          {"courseId":1002,"course":"Diploma in Design & Media","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-design-media"},
+          {"courseId":1003,"course":"Diploma in International Studies","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-international-studies"},
+          {"courseId":1004,"course":"Diploma in Hotel Management","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-hotel-management"},
+          {"courseId":1005,"course":"Diploma in Events Management","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-events-management"},
+          {"courseId":1006,"course":"Diploma in Hotel Management","program": "Diploma","link": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-hotel-management"},
+          {"courseId":1007,"course":"Foundation Programme","program": "Foundation","link": "http://www.apu.edu.my/our-courses/pre-university-studies/foundation-programme"},
+          {"courseId":1008,"course":"Foundation in Computing (ODL)","program": "Foundation","link": "https://www.apu.edu.my/our-courses/pre-university-studies/foundation-computing-odl"},
+          {"courseId":1009,"course":"Certificate in Administrative Skills (CAS)","program": "Certificate","link": "https://www.apu.edu.my/our-courses/pre-university-studies/certificate-administrative-skills-cas"},
+          {"courseId":1010,"course":"Certificate in Information & Communication Technology (CICT)","program": "Certificate","link": "https://www.apu.edu.my/our-courses/pre-university-studies/certificate-information-communication-technology-cict"}
+
+  
   ]
 }
