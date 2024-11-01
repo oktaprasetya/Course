@@ -110,29 +110,9 @@
           {"courseId":1102,"course":"Bachelor of Music in Strings & Harp","program": "Undergradute","link": "https://www.ystmusic.nus.edu.sg/majors-strings-and-harp/"},
           {"courseId":1103,"course":"Bachelor of Music in Voice","program": "Undergradute","link": "https://www.ystmusic.nus.edu.sg/majors-voice/"},
           {"courseId":1104,"course":"Bachelor of Music in Woodwinds","program": "Undergradute","link": "https://www.ystmusic.nus.edu.sg/majors-woodwinds/"}
-
-
-
-
-
-
-        
-      ]
-    },
-{
-      "universityId": 2,
-      "name": "City University Malaysia (NUS)",
-      "universityLogo": "http://tiny.cc/SS-Cityuni",
-      "courses": 
-      [
-          {"courseId":201,"course":"Foundation in Science (Life Science)","program": "Foundation","link": "https://city.edu.my/programme/foundation/foundation-in-science-life-science/"},
-         
-
-        
+   
       ]
     }
-
-
-    
   ]
 }
+    
