@@ -1,0 +1,31 @@
+{
+  "universities": 
+  [
+    {
+      "universityId": 1,
+      "name": "National University of Singapore",
+      "universityLogo": "http://tiny.cc/SS-NUSlogo",
+      "courses": 
+      [
+          {"courseId":101,"course":"Bachelor of Arts In Architecture","program": "Undergradute","link": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-arts-in-architecture/"},
+
+        
+      ]
+    },
+{
+      "universityId": 2,
+      "name": "City University Malaysia",
+      "universityLogo": "http://tiny.cc/SS-Cityuni",
+      "courses": 
+      [
+          {"courseId":201,"course":"Foundation in Science (Life Science)","program": "Foundation","link": "https://city.edu.my/programme/foundation/foundation-in-science-life-science/"},
+         
+
+        
+      ]
+    }
+
+
+    
+  ]
+}
