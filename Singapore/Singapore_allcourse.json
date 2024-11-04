@@ -352,7 +352,20 @@
           {"courseId":1341,"course":"PhD (Nursing)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-nursing"},
           {"courseId":1342,"course":"PhD (Operations Research and Analytics)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-operations-research-and-analytics"},
           {"courseId":1343,"course":"PhD (Pharmacy)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-pharmacy"},
-          {"courseId":1344,"course":"PhD (Philosophy)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-philosophy"}
+          {"courseId":1344,"course":"PhD (Philosophy)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-philosophy"},
+          {"courseId":1345,"course":"PhD (Physics)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-physics"},
+          {"courseId":1346,"course":"PhD (Political Science)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-political-science"},
+          {"courseId":1347,"course":"PhD (Psychology)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-psychology"},
+          {"courseId":1348,"course":"PhD (Public Health)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-public-health"},
+          {"courseId":1349,"course":"PhD (Public Policy)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-public-policy"},
+          {"courseId":1350,"course":"PhD (Quantitative Biology and Medicine)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-quantitative-biology-and-medicine"},
+          {"courseId":1351,"course":"PhD (Quantum Technologies)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-quantum-technologies"},
+          {"courseId":1352,"course":"PhD (Social Work)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-social-work"},
+          {"courseId":1353,"course":"PhD (Sociology/Anthropology)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-sociology-anthropology"},
+          {"courseId":1354,"course":"PhD (South Asian Studies)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-south-asian-studies"},
+          {"courseId":1355,"course":"PhD (Southeast Asian Studies)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-southeast-asian-studies"},
+          {"courseId":1356,"course":"PhD (Statistics and Applied Probability)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-statistics-and-applied-probability"},
+          {"courseId":1357,"course":"PhD (Theatre and Performance Studies)","program": "PhD","link": "https://nusgs.nus.edu.sg/programmes/phd-theatre-and-performance-studies"}
 
 
         
