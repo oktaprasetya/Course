@@ -1,0 +1,13 @@
+{
+  "universityLogo": "http://tiny.cc/SS-ACMI",
+  "university": "Aotearoa Career and Management Institute (ACMI)",
+  "courses": [
+        {"courseId":101 ,"course": "New Zealand Diploma in tourism & Travel (Level 5)","program": "Diploma","link": "https://acmi.ac.nz/new-zealand-diploma-in-travel-tourism-level-5/"},
+        {"courseId":102 ,"course": "Certificate in Health and Care Assistance (Level 3) (Aged Care)","program": "Certificate","link": "https://acmi.ac.nz/certificate-in-health-and-care-assistance-level-3-aged-care/"},
+        {"courseId":103 ,"course": "Certificate in Health and Care Assistance (Level 3) (Practice Care)","program": "Certificate","link": "https://acmi.ac.nz/certificate-in-health-and-care-assistance-level-3-practice-care/"},
+        {"courseId":104 ,"course": "Certificate in Advanced Health and Care Assistance (Level 4) (Complex Care)","program": "Certificate","link": "https://acmi.ac.nz/certificate-in-advanced-health-and-care-assistance-level-4-complex-care/"},
+        {"courseId":105 ,"course": "Diploma in IT Technical Support (Level 5)","program": "Diploma","link": "https://acmi.ac.nz/diploma-in-it-technical-support-level-5/"},
+        {"courseId":106 ,"course": "Diploma in Cybersecurity (Level 6)","program": "Diploma","link": "https://acmi.ac.nz/diploma-in-cybersecurity-level-6/"}
+    
+  ]
+}
