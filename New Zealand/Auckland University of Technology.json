@@ -1,6 +1,6 @@
 {
   "universityLogo": "http://tiny.cc/SS-AUT",
-  "university": "Auckland University Of technology",
+  "university": "Auckland University Of Technology",
   "courses": [
 {"courseId":101 ,"course": "Advanced Nursing Practice","program": "Postgraduate Certificate","link": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-advanced-nursing-practice"},
         {"courseId":102 ,"course": "Analytics","program": "Master","link": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-analytics"},
