@@ -1,1 +1,19 @@
 
+{
+  "universities": 
+  [
+    {
+      "universityId": 1,
+      "name": "University Of Toronto",
+      "universityLogo": "http://tiny.cc/SS-torontologo",
+      "courses": 
+      [
+        {"courseId":101,"course": "Advanced Business (Honours) in Accounting","program": "Bachelor Honours","link": "https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ACCNTC2139"},
+       
+       
+      ]
+    },
+    
+    
+  ]
+}
