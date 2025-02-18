@@ -14,30 +14,6 @@
       "scholarship": "https://www.uwa.edu.au/study/international-students/fees-and-scholarships/uwa-funded-scholarships/global-excellence-scholarship"
     },
     
-    { "courseId":1002, 
-      "course": "Accounting",
-      "program": "Bachelor Program",
-      "link": "https://www.uwa.edu.au/study/courses/accounting", 
-      "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.", 
-      "duration": "3 years (BCom); 4 years (BPhil Hons)", 
-      "fees": "$48,000"
-      "aboutCourse": "https://blog.starshipeducation.com/2025/02/bedah-jurusan-aboriginal-health-and.html",
-      "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=accounting&country=Australia",
-      "scholarship": "https://www.uwa.edu.au/study/international-students/fees-and-scholarships/uwa-funded-scholarships/global-excellence-scholarship"
-    },
-
-    { "courseId":1003,
-      "course": "Agribusiness",
-      "program": "Bachelor Program",
-      "link": "https://www.uwa.edu.au/study/courses/agribusiness", 
-      "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 24, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.", 
-      "duration": "3 years (BSc), 4 years (BSc Hons)", 
-      "fees": "$49,200"
-      "aboutCourse": "https://blog.starshipeducation.com/2025/02/bedah-jurusan-aboriginal-health-and.html",
-      "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Agribusiness&country=Australia",
-      "scholarship": "https://www.uwa.edu.au/study/international-students/fees-and-scholarships/uwa-funded-scholarships/global-excellence-scholarship"
-    },
-    
     {"courseId":1004,"course": "Agribusiness and Agricultural Science (Extended Major)","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science-and-agribusiness-extended-major&auth=WFFIvDAtN38FTpWM9z%2BIPg&profile=_default&rank=4&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
     {"courseId":1005,"course": "Agricultural Science","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science&auth=EoVHljpKcDhpng5kLKfJHQ&profile=_default&rank=5&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
     {"courseId":1006,"course": "Agricultural Science and Technology (Extended Major)","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science-and-technology-extended-major&auth=ppX22BVCawJezRhhAic3hQ&profile=_default&rank=6&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
