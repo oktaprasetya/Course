@@ -38,22 +38,28 @@
     {"courseId":1004,
       "course": "Agribusiness and Agricultural Science (Extended Major)",
       "program": "Bachelor Program",
-      "link": "https://www.uwa.edu.au/study/courses/agricultural-science-and-agribusiness-extended-major"
+      "link": "https://www.uwa.edu.au/study/courses/agricultural-science-and-agribusiness-extended-major",
       "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.", 
       "duration": "3 years (BSc), 4 years (BSc Hons)", 
       "fees": "$49,200"
       "courseDetail": "",
-      "otherInstitution": "http://tiny.cc/owga001",
+      "otherInstitution": "http://tiny.cc/lxga001",
       "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"},
     
+    {"courseId":1005,
+      "course": "Agricultural Science",
+      "program": "Bachelor Program",
+      "link": "https://www.uwa.edu.au/study/courses/agricultural-science",
+      "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 24, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.", 
+      "duration": "3 years (BSc), 4 years (BSc Hons)", 
+      "fees": "$49,200"
+      "courseDetail": "",
+      "otherInstitution": "http://tiny.cc/sxga001",
+      "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"},
+
+
+
     
-    
-    
-    
-    
-    
-    
-    {"courseId":1005,"course": "Agricultural Science","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science&auth=EoVHljpKcDhpng5kLKfJHQ&profile=_default&rank=5&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
     {"courseId":1006,"course": "Agricultural Science and Technology (Extended Major)","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science-and-technology-extended-major&auth=ppX22BVCawJezRhhAic3hQ&profile=_default&rank=6&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
     {"courseId":1007,"course": "Agricultural Technology","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-technology&auth=l9jlyeRs3in%2Fg0VynejT6g&profile=_default&rank=7&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
     {"courseId":1008,"course": "Anatomy and Human Biology","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fanatomy-and-human-biology&auth=s7KdESgZiNVY5HZwBq9VmA&profile=_default&rank=8&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
