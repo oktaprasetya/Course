@@ -8,7 +8,10 @@
       "link": "https://www.uwa.edu.au/study/courses/aboriginal-health-and-wellbeing", 
       "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.", 
       "duration": "3 years (BBiomedSc), 4 years (BBiomedSc Hons)", 
-      "fees": "$48,700"},
+      "fees": "$48,700",
+      "courseDetail": "https://uwa.edu.au/course-detail",
+      "otherInstitution": "https://uwa.edu.au/other-institutions",
+      "scholarship": "https://uwa.edu.au/scholarship"},
     
     {"courseId":1002, 
       "course": "Accounting",
