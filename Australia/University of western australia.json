@@ -2,17 +2,7 @@
   "universityLogo": "http://tiny.cc/SS-UWAlogo",
   "university": "University Of Western Australia",
   "courses": [
-    { "courseId": 1001,
-      "course": "Aboriginal Health and Wellbeing",
-      "program": "Bachelor Program",
-      "link": "https://www.uwa.edu.au/study/courses/aboriginal-health-and-wellbeing",
-      "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
-      "duration": "3 years (BBiomedSc), 4 years (BBiomedSc Hons)",
-      "fees": "$48,700",
-      "aboutCourse": "https://blog.starshipeducation.com/2025/02/bedah-jurusan-aboriginal-health-and.html",
-      "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Aboriginal&country=Australia",
-      "scholarship": "https://www.uwa.edu.au/study/international-students/fees-and-scholarships/uwa-funded-scholarships/global-excellence-scholarship"
-    },
+    
     
     {"courseId":1004,"course": "Agribusiness and Agricultural Science (Extended Major)","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science-and-agribusiness-extended-major&auth=WFFIvDAtN38FTpWM9z%2BIPg&profile=_default&rank=4&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
     {"courseId":1005,"course": "Agricultural Science","program": "Bachelor Program","link": "https://www.search.uwa.edu.au/s/redirect?collection=uwa~sp-search&url=https%3A%2F%2Fwww.uwa.edu.au%2Fstudy%2Fcourses%2Fagricultural-science&auth=EoVHljpKcDhpng5kLKfJHQ&profile=_default&rank=5&query=%21FunDoesNotExist%3Apadrenull+%7CcourseStudyLevel%3A%22%24%2B%2B+undergraduate+%24%2B%2B%22"},
