@@ -3887,8 +3887,8 @@
 
     {
       "universityId": 6,
-      "name": "The University of Queensland",
-      "universityLogo": "http://tiny.cc/SS-UQ",
+      "name": "The University of Sydney",
+      "universityLogo": "http://tiny.cc/SS-usyd",
       "courses": 
       [
         {"courseId":6001,"course": "Architecture Undergraduate Cross-Institutional","program": "Undergraduate","link": "https://www.sydney.edu.au/courses/courses/uc/architecture-undergraduate-cross-institutional.html"},
