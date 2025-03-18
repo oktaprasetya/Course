@@ -4,7 +4,10 @@
         "country": "Australia",
         "logo": "http://tiny.cc/SS-ANU",
         "programs": [
-            {"major": "Flexible Double Degree - Arts, Social Sciences, Business, Science","program": "Bachelor Degree (Double)", "details_url": "https://programsandcourses.anu.edu.au/2024/program/4050FDD", "duration": "4 years full-time", "entryRequirements": "ATAR 80 or equivalent\nIELTS 6.5 overall (with minimum 6.0 in each component)", "fees": "AUD $50,760 per year*", "courseDetail": "https://programsandcourses.anu.edu.au/2024/program/4050FDD#requirements", "otherInstitution": "http://tiny.cc/kctd001", "scholarship": "https://www.anu.edu.au/study/scholarships"},
+            {"major": "Flexible Double Degree - Arts, Social Sciences, Business, Science","program": "Bachelor Degree (Double)", "details_url": "https://programsandcourses.anu.edu.au/2024/program/4050FDD", "duration": "4 years full-time", "entryRequirements": "ATAR 80 or equivalent\nIELTS 6.5 overall (with minimum 6.0 in each component)", "fees": "AUD $50,760 per year"},
+            
+            
+            
             {"major": "Bachelor of Accounting","details_url": "https://programsandcourses.anu.edu.au/2024/program/BACCT"},
             {"major": "Bachelor of Accounting (Honours)","details_url": "https://programsandcourses.anu.edu.au/2024/program/HACCT"},
             {"major": "Bachelor of Actuarial Studies","details_url": "https://programsandcourses.anu.edu.au/2024/program/BACTS"},
