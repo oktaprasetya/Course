@@ -4,8 +4,13 @@
         "country": "Australia",
         "logo": "http://tiny.cc/SS-ANU",
         "programs": [
-            {"major": "Flexible Double Degree - Arts, Social Sciences, Business, Science", "program": "Bachelor Degree (Double)", "details_url": "https://programsandcourses.anu.edu.au/2024/program/4050FDD", "duration": "4 years full-time", "entryRequirements": "IELTS: 6.5 (≥6.0 per band), Applicants who complete a recognised secondary/senior secondary/post-secondary/tertiary sequence of study will be assessed on the basis of an equivalent selection rank that is calculated upon application.", "fees": "AUD $49,400 per year", "courseDetail": "https://programsandcourses.anu.edu.au/2024/program/4050FDD#requirements", "otherInstitution": "http://tiny.cc/kctd001", "scholarship": "https://www.anu.edu.au/study/scholarships"},
-            {"major": "Bachelor of Accounting","details_url": "https://programsandcourses.anu.edu.au/2024/program/BACCT"},
+            {"major": "Flexible Double Degree - Arts, Social Sciences, Business, Science", "program": "Bachelor Degree (Double)", "details_url": "https://programsandcourses.anu.edu.au/2024/program/4050FDD", "duration": "4 years full-time", "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | ATAR 80 | Applicants who complete a recognised secondary/senior secondary/post-secondary/tertiary sequence of study will be assessed on the basis of an equivalent selection rank that is calculated upon application.", "fees": "AUD $49,400 per year", "courseDetail": "https://programsandcourses.anu.edu.au/2024/program/4050FDD#requirements", "otherInstitution": "http://tiny.cc/kctd001", "scholarship": "https://www.anu.edu.au/study/scholarships"},
+            {"major": "Bachelor of Accounting","program": "Bachelor Degree","details_url":"https://programsandcourses.anu.edu.au/2024/program/BACCT","duration": "3 years full-time","entryRequirements": "IELTS: 6.5 (≥6.0 per band) | ATAR 80 | International Baccalaureate: 30 | ","fees": "AUD $48,035 per year (Indicative international fee)","courseDetail": "https://programsandcourses.anu.edu.au/2024/program/BACCT#study", "otherInstitution": "http://tiny.cc/mstd001", "scholarship": "https://www.anu.edu.au/study/scholarships"},
+
+
+
+
+            
             {"major": "Bachelor of Accounting (Honours)","details_url": "https://programsandcourses.anu.edu.au/2024/program/HACCT"},
             {"major": "Bachelor of Actuarial Studies","details_url": "https://programsandcourses.anu.edu.au/2024/program/BACTS"},
             {"major": "Bachelor of Actuarial Studies (Honours)","details_url": "https://programsandcourses.anu.edu.au/2024/program/HACTS"},
