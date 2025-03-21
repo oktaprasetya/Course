@@ -2315,8 +2315,12 @@
       "courses": 
       [
         {"courseId":201,"course": "Flexible Double Degree - Arts, Social Sciences, Business, Science","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/4050FDD", "entryRequirements": "IELTS: 6.5 (≥6.0 per band), Applicants who complete a recognised secondary/senior secondary/post-secondary/tertiary sequence of study will be assessed on the basis of an equivalent selection rank that is calculated upon application.","duration": "4 Years","fees": "AUD49,400 Annual indicative fee","courseDetail": "https://programsandcourses.anu.edu.au/2024/program/4050FDD#requirements","otherInstitution": "http://tiny.cc/kctd001","scholarship": "https://study.anu.edu.au/scholarships/find-scholarship"},
-        {"courseId":202,"course": "Bachelor of Accounting","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/BACCT"},
+        {"courseId":202,"course": "Bachelor of Accounting","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/BACCT", "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | ATAR 80 | International Baccalaureate: 30","duration": "3 Years","fees": "AUD $48,035 per year (Indicative international fee)","courseDetail": "https://programsandcourses.anu.edu.au/2024/program/BACCT#study","otherInstitution": "http://tiny.cc/mstd001","scholarship": "https://study.anu.edu.au/scholarships/find-scholarship"},   
         {"courseId":203,"course": "Bachelor of Accounting (Honours)","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/HACCT"},
+
+
+
+        
         {"courseId":204,"course": "Bachelor of Actuarial Studies","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/BACTS"},
         {"courseId":205,"course": "Bachelor of Actuarial Studies (Honours)","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/HACTS"},
         {"courseId":206,"course": "Bachelor of Advanced Computing (Honours)","program": "Undergraduate","link": "https://programsandcourses.anu.edu.au/2024/program/AACOM"},
