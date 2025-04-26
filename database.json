@@ -970,6 +970,25 @@
             
         ]
     },
+    {
+        "university": "Academies Australia",
+        "country": "Australia",
+        "logo": "http://tiny.cc/t6rh001",
+        "programs": [
+            {"major": "Diploma of Community Services","program": "Diploma","details_url": "https://academies.edu.au/courses-syd-community-services/","duration": "8 terms (72 college weeks)","entryRequirements": "IELTS: 6.0 overall (no band less than 5.5) | TOEFL iBT: 60 | Equivalent qualifications accepted","fees": "AUD $2,250 per term (Total indicative: AUD $18,000)","courseDetail": "https://academies.edu.au/courses-syd-community-services/","otherInstitution": "http://tiny.cc/49rh001","scholarship": "https://academies.edu.au/students/#scholarships"},
+            {"major": "Certificate III in Early Childhood Education and Care","program": "Certificate III","details_url": "https://academies.edu.au/courses-syd-ecec/","duration": "4 terms (approximately 36 college weeks)","entryRequirements": "IELTS: 5.5 overall (no band less than 5.0) or equivalent English proficiency","fees": "AUD $2,500 per term","courseDetail": "https://academies.edu.au/courses-syd-ecec/","otherInstitution": "http://tiny.cc/b9rh001","scholarship": "Not specified"},
+            {"major": "Diploma of Early Childhood Education and Care","program": "Diploma","details_url": "https://academies.edu.au/courses-syd-ecec/","duration": "4 terms (approximately 36 college weeks)","entryRequirements": "Direct entry requires Certificate III in Early Childhood Education and Care (CHC30121 or CHC30113); IELTS: 5.5 overall (no band less than 5.0) or equivalent English proficiency","fees": "AUD $2,500 per term","courseDetail": "http://tiny.cc/b9rh001","otherInstitution": "https://tinyurl.com/earlychildcareacademies","scholarship": "Not specified"},
+            {"major": "Diploma of Hospitality Management","program": "Diploma","details_url": "https://academies.edu.au/courses-sydney-hospitality-management/","duration": "6 terms (54 college weeks)","entryRequirements": "IELTS 5.5 (no band less than 5.0) or equivalent; Academic: Australian Year 11 or equivalent","fees": "AUD $2,000 per term (Indicative international fee)","courseDetail": "https://academies.edu.au/courses-sydney-hospitality-management/","otherInstitution": "http://tiny.cc/g9rh001","scholarship": "https://academies.edu.au/international-students-scholarships/"},
+            {"major": "Advanced Diploma of Hospitality Management","program": "Advanced Diploma","details_url": "https://academies.edu.au/courses-sydney-hospitality-management/","duration": "2 terms (18 college weeks) after completing Diploma","entryRequirements": "Must complete Diploma of Hospitality Management (SIT50422); IELTS 5.5 (no band less than 5.0) or equivalent","fees": "AUD $2,000 per term (Indicative international fee)","courseDetail": "https://academies.edu.au/courses-sydney-hospitality-management/","otherInstitution": "http://tiny.cc/g9rh001","scholarship": "https://academies.edu.au/international-students-scholarships/"},
+            {"major": "Certificate IV in Information Technology","program": "Certificate IV","details_url": "https://academies.edu.au/courses-syd-it/","duration": "27 college weeks (approximately 9 months)","entryRequirements": "IELTS: 5.5 or equivalent","fees": "AUD $6,000 total (AUD $2,000 per term)","courseDetail": "https://academies.edu.au/courses-syd-it/","otherInstitution": "http://tiny.cc/r9rh001","scholarship": "https://academies.edu.au/admissions/scholarships"},
+            {"major": "Diploma of Information Technology","program": "Diploma","details_url": "https://academies.edu.au/courses-syd-it/","duration": "27 college weeks (approximately 9 months)","entryRequirements": "IELTS: 5.5 or equivalent","fees": "AUD $6,000 total (AUD $2,000 per term)","courseDetail": "https://academies.edu.au/courses-syd-it/","otherInstitution": "http://tiny.cc/r9rh001","scholarship": "https://academies.edu.au/admissions/scholarships"},
+            {"major": "Advanced Diploma of Information Technology","program": "Advanced Diploma","details_url": "https://academies.edu.au/courses-syd-it/","duration": "18 college weeks (approximately 6 months)","entryRequirements": "IELTS: 5.5 or equivalent","fees": "AUD $4,000 total (AUD $2,000 per term)","courseDetail": "https://academies.edu.au/courses-syd-it/","otherInstitution": "http://tiny.cc/r9rh001","scholarship": "https://academies.edu.au/admissions/scholarships"}
+        
+        
+        
+        
+        ]
+    },
 
 
 
