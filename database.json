@@ -224,205 +224,30 @@
   
         ]
     },
+    {
+        "university": "Academique Australia",
+        "country": "Australia",
+        "logo": "http://tiny.cc/kxvh001",
+        "programs": [
+            {"major": "Certificate IV in Business","program":"Certificate IV","details_url":"https://www.academique.com.au/courses/business-and-management/certificate-iv-business/","duration":"28 study weeks (plus breaks)","entryRequirements":"IELTS 6.0 or equivalent | Academique English test 80%+ | Minimum age 18","fees":"Contact provider for latest fee details","courseDetail":"https://www.academique.com.au/courses/business-and-management/certificate-iv-business/","otherInstitution":"http://tiny.cc/zzvh001","scholarship":"https://www.academique.com.au/student-services/download/"},
+            {"major": "Diploma of Business","program":"Diploma","details_url":"https://www.academique.com.au/courses/business-and-management/diploma-of-business/","duration":"48 study weeks (plus breaks)","entryRequirements":"IELTS 6.0 or equivalent | Academique English test 80%+ | Minimum age 18","fees":"Contact provider for latest fee details","courseDetail":"https://www.academique.com.au/courses/business-and-management/diploma-of-business/","otherInstitution":"http://tiny.cc/zzvh001","scholarship":"https://www.academique.com.au/student-services/download/"},
+            {"major": "Advanced Diploma of Business","program":"Advanced Diploma","details_url":"https://www.academique.com.au/courses/business-and-management/advanced-diploma-of-business/","duration":"40 study weeks (plus breaks)","entryRequirements":"IELTS 6.0 or equivalent | Academique English test 80%+ | Minimum age 18","fees":"Contact provider for latest fee details","courseDetail":"https://www.academique.com.au/courses/business-and-management/advanced-diploma-of-business/","otherInstitution":"http://tiny.cc/zzvh001","scholarship":"https://www.academique.com.au/student-services/download/"},
+            {"major": "Diploma of Human Resources Management", "program": "Diploma", "details_url": "https://www.academique.com.au/courses/human-resource-management/diploma-of-human-resources-management/", "duration": "74 weeks (termasuk libur dan Research Break)", "entryRequirements": "IELTS 6.0 atau setara | Tes internal Academique (≥80%) | Bukti studi sebelumnya (Foundation/Certificate IV atau lebih tinggi) | Usia minimal 18 tahun", "fees": "AUD $6,957 total (perkiraan berdasarkan data Februari 2025)", "courseDetail": "https://www.academique.com.au/courses/human-resource-management/diploma-of-human-resources-management/", "otherInstitution": "http://tiny.cc/92wh001", "scholarship": "https://www.academique.com.au/student-services/download/"}​,
+            {"major": "Advanced Diploma of Management (Human Resources)", "program": "Advanced Diploma", "details_url": "https://www.academique.com.au/courses/human-resource-management/advanced-diploma-of-management-human-resources/", "duration": "40 study weeks (tidak termasuk Research Break)", "entryRequirements": "IELTS 6.0 atau setara | Tes internal Academique (≥80%) | Bukti studi sebelumnya (Foundation/Certificate IV atau lebih tinggi) | Usia minimal 18 tahun", "fees": "Informasi biaya tidak tersedia secara publik; hubungi institusi untuk detail", "courseDetail": "https://www.academique.com.au/courses/human-resource-management/advanced-diploma-of-management-human-resources/", "otherInstitution": "http://tiny.cc/92wh001", "scholarship": "https://www.academique.com.au/student-services/download/"}​
+            {"major": "Certificate III in Individual Support","program": "Certificate","details_url": "https://www.academique.com.au/courses/aged-care/certificate-iii-in-individual-support/","duration": "Approximately 12 months full-time","entryRequirements": "Minimum IELTS 5.5 overall or equivalent, must be 18 years or older, Year 12 completion or equivalent","fees": "AUD $9,000 (tuition only) + additional fees may apply","courseDetail": "https://www.academique.com.au/courses/aged-care/certificate-iii-in-individual-support/","otherInstitution": "http://tiny.cc/b3wh001","scholarship": "https://www.academique.com.au/student-services/download/"},
+            {"major": "Certificate IV in Ageing Support","program": "Certificate","details_url": "https://www.academique.com.au/courses/aged-care/certificate-iv-in-ageing-support/","duration": "Approximately 12 months full-time","entryRequirements": "Minimum IELTS 5.5 overall or equivalent, must be 18 years or older, Year 12 completion or equivalent","fees": "AUD $9,500 (tuition only) + additional fees may apply","courseDetail": "https://www.academique.com.au/courses/aged-care/certificate-iv-in-ageing-support/","otherInstitution": "http://tiny.cc/b3wh001","scholarship": "https://www.academique.com.au/student-services/download/"}
+            {"major": "Diploma of Leadership and Management","program": "Diploma","details_url": "https://www.academique.com.au/courses/leadership-and-management/diploma-leadership-management/","duration": "48 study weeks","entryRequirements": "IELTS 5.5 or equivalent | Academique Test 80%+ | Must be 18 years old or above","fees": "Hubungi Academique untuk detail biaya terbaru","courseDetail": "https://www.academique.com.au/courses/leadership-and-management/diploma-leadership-management/","otherInstitution": "http://tiny.cc/newh001","scholarship": "https://www.academique.com.au/student-services/download/"},
+            {"major": "Advanced Diploma of Leadership and Management","program": "Advanced Diploma","details_url": "https://www.academique.com.au/courses/leadership-and-management/advanced-diploma-of-leadership-and-management/","duration": "40 study weeks","entryRequirements": "IELTS 5.5 or equivalent | Academique Test 80%+ | Must be 18 years old or above","fees": "Hubungi Academique untuk detail biaya terbaru","courseDetail": "https://www.academique.com.au/courses/leadership-and-management/advanced-diploma-of-leadership-and-management/","otherInstitution": "http://tiny.cc/newh001","scholarship": "https://www.academique.com.au/student-services/download/"},
+            {"major": "Certificate III in Painting and Decorating","program": "Certificate III","details_url": "https://www.academique.com.au/courses/trades/certificate-iii-painting-decorating-2/","duration": "64 study weeks (up to 94 weeks including holidays)","entryRequirements": "IELTS 6.0 or equivalent | Academique internal test (80%) | Proof of successful Foundation, Certificate IV, or higher studies | Minimum age 18 years","fees": "Please contact Academique for current fees","courseDetail": "https://www.academique.com.au/courses/trades/certificate-iii-painting-decorating-2/","otherInstitution": "http://tiny.cc/3fwh001","scholarship": "https://www.academique.com.au/student-services/download/"},
+            {"major": "Certificate III in Carpentry","program": "Certificate III","details_url": "https://www.academique.com.au/courses/trades/certificate-iii-in-carpentry/","duration": "64 study weeks (up to 94 weeks including holidays)","entryRequirements": "IELTS 6.0 or equivalent | Academique internal test (80%) | Proof of successful Foundation, Certificate IV, or higher studies | Minimum age 18 years","fees": "AUD $16,596 per year (Indicative international fee)","courseDetail": "https://www.academique.com.au/courses/trades/certificate-iii-in-carpentry/","otherInstitution": "http://tiny.cc/dfwh001","scholarship": "https://www.academique.com.au/student-services/download/"},
+            {"major": "Certificate IV in Building and Construction","program": "Certificate IV","details_url": "https://www.academique.com.au/courses/trades/certificate-iv-in-building-construction/","duration": "36 study weeks (up to 52 weeks including holidays)","entryRequirements": "IELTS 6.0 or equivalent | Academique internal test (80%) | Proof of successful Foundation, Certificate IV, or higher studies | Minimum age 18 years","fees": "Please contact Academique for current fees","courseDetail": "https://www.academique.com.au/courses/trades/certificate-iv-in-building-construction/","otherInstitution": "http://tiny.cc/hfwh001","scholarship": "https://www.academique.com.au/student-services/download/"}
 
-{
-    "university": "Academies Australia",
-    "country": "Australia",
-    "logo": "http://tiny.cc/t6rh001",
-    "programs": [
-        {
-            "major": "Diploma of Community Services",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-community-services/",
-            "duration": "8 terms (72 college weeks)",
-            "entryRequirements": "English: IELTS 6.0 overall (no band less than 5.5) | TOEFL iBT: 60 | Academic: Equivalent qualifications accepted",
-            "fees": "AUD $2,250 per term (total AUD $18,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-community-services/",
-            "otherInstitution": "http://tiny.cc/49rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Certificate III in Early Childhood Education and Care",
-            "program": "Certificate III",
-            "details_url": "https://academies.edu.au/courses-syd-ecec/",
-            "duration": "4 terms (approximately 36 college weeks)",
-            "entryRequirements": "English: IELTS 5.5 overall (no band less than 5.0) or equivalent English proficiency | Minimum age: 18 years",
-            "fees": "AUD $2,500 per term (total AUD $10,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-ecec/",
-            "otherInstitution": "http://tiny.cc/b9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Diploma of Early Childhood Education and Care",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-ecec/",
-            "duration": "4 terms (approximately 36 college weeks)",
-            "entryRequirements": "English: IELTS 5.5 overall (no band less than 5.0) or equivalent English proficiency | Academic: Direct entry requires Certificate III in Early Childhood Education and Care (CHC30121 or CHC30113)",
-            "fees": "AUD $2,500 per term (total AUD $10,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-ecec/",
-            "otherInstitution": "http://tiny.cc/b9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Diploma of Hospitality Management",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-sydney-hospitality-management/",
-            "duration": "6 terms (54 college weeks)",
-            "entryRequirements": "English: IELTS 5.5 (no band less than 5.0) or equivalent | Academic: Australian Year 11 or equivalent",
-            "fees": "AUD $2,000 per term (total AUD $12,000)",
-            "courseDetail": "https://academies.edu.au/courses-sydney-hospitality-management/",
-            "otherInstitution": "http://tiny.cc/g9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Advanced Diploma of Hospitality Management",
-            "program": "Advanced Diploma",
-            "details_url": "https://academies.edu.au/courses-sydney-hospitality-management/",
-            "duration": "2 terms (18 college weeks) after completing Diploma",
-            "entryRequirements": "English: IELTS 5.5 (no band less than 5.0) or equivalent | Academic: Must complete Diploma of Hospitality Management (SIT50422)",
-            "fees": "AUD $2,000 per term (total AUD $4,000)",
-            "courseDetail": "https://academies.edu.au/courses-sydney-hospitality-management/",
-            "otherInstitution": "http://tiny.cc/g9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Certificate IV in Information Technology",
-            "program": "Certificate IV",
-            "details_url": "https://academies.edu.au/courses-syd-it/",
-            "duration": "27 college weeks (approximately 9 months)",
-            "entryRequirements": "English: IELTS 5.5 or equivalent | Academic: Completion of Year 12 or equivalent",
-            "fees": "AUD $2,000 per term (total AUD $6,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-it/",
-            "otherInstitution": "http://tiny.cc/r9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Diploma of Information Technology",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-it/",
-            "duration": "27 college weeks (approximately 9 months)",
-            "entryRequirements": "English: IELTS 5.5 or equivalent | Academic: Completion of Year 12 or equivalent",
-            "fees": "AUD $2,000 per term (total AUD $6,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-it/",
-            "otherInstitution": "http://tiny.cc/r9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Advanced Diploma of Information Technology",
-            "program": "Advanced Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-it/",
-            "duration": "18 college weeks (approximately 6 months)",
-            "entryRequirements": "English: IELTS 5.5 or equivalent | Academic: Completion of Diploma of Information Technology",
-            "fees": "AUD $2,000 per term (total AUD $4,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-it/",
-            "otherInstitution": "http://tiny.cc/r9rh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Diploma of Leadership and Management",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-leadership-management/",
-            "duration": "36 college weeks (4 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Year 12 or equivalent",
-            "fees": "AUD $2,000 per term (total AUD $8,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-leadership-management/",
-            "otherInstitution": "http://tiny.cc/ryrh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Advanced Diploma of Leadership and Management",
-            "program": "Advanced Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-leadership-management/",
-            "duration": "36 college weeks (4 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Diploma of Leadership and Management or equivalent experience",
-            "fees": "AUD $2,000 per term (total AUD $8,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-leadership-management/",
-            "otherInstitution": "http://tiny.cc/ryrh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Diploma of Project Management",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-per-project-management/",
-            "duration": "36 college weeks (4 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Year 12 or equivalent",
-            "fees": "AUD $2,000 per term (total AUD $8,000)",
-            "courseDetail": "https://academies.edu.au/courses-per-project-management/",
-            "otherInstitution": "http://tiny.cc/kzrh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Advanced Diploma of Program Management",
-            "program": "Advanced Diploma",
-            "details_url": "https://academies.edu.au/courses-per-project-management/",
-            "duration": "36 college weeks (4 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Diploma of Project Management or 2 years relevant experience",
-            "fees": "AUD $2,000 per term (total AUD $8,000)",
-            "courseDetail": "https://academies.edu.au/courses-per-project-management/",
-            "otherInstitution": "http://tiny.cc/tjce001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Advanced Diploma of Holistic Classical Yoga Teaching and Therapy",
-            "program": "Advanced Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-sports-fitness/",
-            "duration": "45 college weeks (5 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Year 12 or equivalent",
-            "fees": "AUD $3,000 per term (total AUD $15,000)",
-            "courseDetail": "https://academies.edu.au/wp-content/uploads/2025/03/Sydney_Yoga_T22025.pdf",
-            "otherInstitution": "http://tiny.cc/uzrh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Certificate IV in Travel and Tourism",
-            "program": "Certificate IV",
-            "details_url": "https://academies.edu.au/courses-syd-travel-tourism/",
-            "duration": "27 college weeks (3 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Year 12 or equivalent",
-            "fees": "AUD $1,500 per term (total AUD $4,500)",
-            "courseDetail": "https://academies.edu.au/courses-syd-travel-tourism/",
-            "otherInstitution": "http://tiny.cc/i0sh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Diploma of Travel and Tourism Management",
-            "program": "Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-travel-tourism/",
-            "duration": "27 college weeks (3 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Certificate IV in Travel and Tourism",
-            "fees": "AUD $1,500 per term (total AUD $4,500)",
-            "courseDetail": "https://academies.edu.au/courses-syd-travel-tourism/",
-            "otherInstitution": "http://tiny.cc/i0sh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        },
-        
-        {
-            "major": "Advanced Diploma of Travel and Tourism Management",
-            "program": "Advanced Diploma",
-            "details_url": "https://academies.edu.au/courses-syd-travel-tourism/",
-            "duration": "18 college weeks (2 terms)",
-            "entryRequirements": "English: IELTS 5.5 (no band lower than 5.0) or equivalent | Academic: Completion of Diploma of Travel and Tourism Management",
-            "fees": "AUD $1,500 per term (total AUD $3,000)",
-            "courseDetail": "https://academies.edu.au/courses-syd-travel-tourism/",
-            "otherInstitution": "http://tiny.cc/i0sh001",
-            "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/"
-        }
-    ]
-},
+
+
+
+            
+        ]
+    },
 
 
 
