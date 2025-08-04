@@ -4710,23 +4710,6 @@
       ]
     },
 
-    
-    {
-      "universityId": 11,
-      "name": "Academy of film, theater and television",
-      "universityLogo": "http://tiny.cc/SS-AFTT",
-      "courses": 
-      [
-        {"courseId":11001, "course":"Creative Arts (Acting)","program":"Bachelor Degree","link":"https://www.aftt.edu.au/courses/acting","entryRequirements":"English: IELTS 6.0 (no band <5.5) or TOEFL iBT 60 (no band <12) | Academic: Completion of Year 12 or equivalent","duration":"2 years full-time (6 trimesters)","fees":"AUD $11,300 per trimester (total AUD $67,800)","courseDetail":"https://www.aftt.edu.au/courses/acting","otherInstitution":"http://tiny.cc/62bh001","scholarship":"https://www.aftt.edu.au/policies/domestic-students/policies-procedures"},
-        {"courseId":11002, "course":"Creative Arts (Acting)","program":"Diploma","link":"https://www.aftt.edu.au/courses/acting","entryRequirements":"Minimum age 18 at course start | Completion of Senior High School or equivalent | Academic IELTS 5.5 (no band below 5.0) or equivalent | Written statement | Audition required","duration":"2 trimesters (approximately 1 year full-time)","fees":"AUD $11,300 per trimester; AUD $22,600 total (Indicative international fee)","courseDetail":"https://www.aftt.edu.au/courses/acting","otherInstitution":"http://tiny.cc/62bh001","scholarship":"https://www.aftt.edu.au/policies/domestic-students/policies-procedures"},
-        {"courseId":11003, "course":"Screen and Media","program":"Diploma","link":"https://www.aftt.edu.au/Courses/Film","entryRequirements":"IELTS (Academic): 5.5 (no band <5.0) | TOEFL iBT: 46 | SMA3: 60%","duration":"1 year full-time (2 semesters)","fees":"AUD $35,000 total (Indicative international fee)","courseDetail":"https://www.aftt.edu.au/Courses/Film","otherInstitution":"http://tiny.cc/q2bh001","scholarship":"https://www.aftt.edu.au/policies/domestic-students/policies-procedures"},
-        {"courseId":11004, "course":"Screen and Media","program":"Advanced Diploma","link":"https://www.aftt.edu.au/Courses/Film","entryRequirements":"Completion of AFTT’s CUA51020 (or CUA51015) Diploma of Screen and Media in Film; IELTS (Academic): 5.5 with no band below 5.0","duration":"1 year full-time (following completion of Diploma of Screen and Media)","fees":"AUD $35,000 total (indicative international fee)","courseDetail":"http://tiny.cc/q2bh001","otherInstitution":"https://www.jmcacademy.edu.au/","scholarship":"https://www.aftt.edu.au/policies/domestic-students/policies-procedures"},
-        {"courseId":11005, "course":"Live Production and Technical Services (Stage Management)","program":"Diploma","link":"https://www.aftt.edu.au/courses/theatre-production","entryRequirements":"IELTS: 6.0 (≥5.5 per band) | TOEFL iBT: 73 (Writing ≥18) | PTE: 50–57 | Cambridge C1 Advanced: 169 | SMA3: Lulus | Interview | Usia ≥18 tahun saat mulai kuliah","duration":"1 year full-time","fees":"AUD $26,400 per year (Indicative international fee)","courseDetail":"https://www.aftt.edu.au/courses/theatre-production","otherInstitution":"http://tiny.cc/p3bh001","scholarship":"https://www.aftt.edu.au/policies/domestic-students/policies-procedures"}
-
-        
-      ]
-    },
-
     {
       "universityId": 12,
       "name": "Academies Australia",
