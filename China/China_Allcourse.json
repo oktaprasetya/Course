@@ -118,6 +118,78 @@
         {"courseId":702,"course":"Bachelor of Economics in Financial Services and Management (Chinese)","program": "Bachelor","link": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"}
 
       ]
+    },
+    {
+      "universityId": 8,
+      "name": "East China University of Science and Technology",
+      "universityLogo": "http://tiny.cc/ftfr001",
+      "courses": 
+      [
+        {"courseId":8001,"course":"International Economics & Trade (Dual Degree, JMD)","program":"Bachelor Degree","link":"https://apply.china-admissions.com/dual-degree-bachelors-in-international-economics-trade-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASL2A0/","entryRequirements":"Completed high school diploma; proof of English (IELTS ≥6.0 or TOEFL ≥80 or equivalent); no criminal record; age ≥16","duration":"3 years full-time","fees":"CNY 70,000 per year (Indicative ECUST tuition; estimated total CNY 210,000)","courseDetail":"https://apply.china-admissions.com/dual-degree-bachelors-in-international-economics-trade-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASL2A0/#curriculum","otherInstitution":"http://tiny.cc/ltfr001","scholarship":"https://www.china-admissions.com/scholarships"},
+        {"courseId":8002,"course":"Computer Science & Technology (Dual Degree, JMD)","program":"Bachelor Degree","link":"https://apply.china-admissions.com/dual-degree-bachelors-in-computer-science-technology-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASFH40/","entryRequirements":"Completed high school diploma; proof of English — IELTS ≥6.0 or TOEFL ≥80 (or equivalent); applicants without scores may take additional language courses","duration":"3 years full-time (JMD pathway; overseas year(s) may vary)","fees":"CNY 70,000 per year for ECUST portion (indicative); overseas-year tuition estimates listed separately (partner university fees)","courseDetail":"https://apply.china-admissions.com/dual-degree-bachelors-in-computer-science-technology-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASFH40/#curriculum","otherInstitution":"Examples of JMD partners: University of Huddersfield / University of Dundee / University of Portsmouth (see programme page)","scholarship":"https://www.china-admissions.com/scholarships"},
+        {"courseId":8003,"course":"Chemical Engineering & Technology (Dual Degree, JMD)","program":"Bachelor Degree","link":"https://apply.china-admissions.com/dual-degree-bachelors-in-chemical-engineering-technology-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASOND0/","entryRequirements":"Completed high school diploma; proof of English (IELTS ≥6.0 or TOEFL ≥80 or equivalent); age and health/clean criminal record requirements","duration":"3 years full-time (ECUST years) — JMD structure may allow overseas-year study as listed","fees":"CNY 70,000 per year (Indicative ECUST tuition; overseas-year tuition estimated separately)","courseDetail":"https://apply.china-admissions.com/dual-degree-bachelors-in-chemical-engineering-technology-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASOND0/#curriculum","otherInstitution":"Example JMD partners: University of Huddersfield (overseas partner listed)","scholarship":"https://www.china-admissions.com/scholarship"},
+        {"courseId":8004,"course":"Visual Communication Design (Dual Degree, JMD)","program":"Bachelor Degree","link":"https://apply.china-admissions.com/dual-degree-bachelors-in-visual-communication-design-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASBM60/","entryRequirements":"Completed high school diploma; proof of English (IELTS ≥6.0 or TOEFL ≥80 or equivalent); age ≥16; portfolio/creative requirements may apply for art & design programmes","duration":"3 years full-time (ECUST portion; JMD pathway details / overseas year vary)","fees":"CNY 70,000 per year (Indicative ECUST tuition for Year 1–2; overseas partner tuition estimated separately)","courseDetail":"https://apply.china-admissions.com/dual-degree-bachelors-in-visual-communication-design-jmd--at-east-china-university-of-science-and-technology-overseas-university/d/pBEASBM60/#curriculum","otherInstitution":"JMD partner examples listed (University of Dundee / Huddersfield etc)","scholarship":"https://www.china-admissions.com/scholarships"},
+        {"courseId":8005,"course":"Chemical Engineering & Technology (Joint multi-degree / single bachelor pathway)","program":"Bachelor Degree","link":"https://apply.china-admissions.com/joint-multi-degree-programme-chemical-engineering-technology-single-bachelor-degree-pathway-at-east-china-university-science-and-technology-ecust/d/pBECU5EC0/","entryRequirements":"Completed high school diploma; proof of English (IELTS ≥6.0 or TOEFL ≥80 or equivalent); other eligibility checks (health, age, no criminal record)","duration":"Typically 4–5 years depending on the pathway (programme listing shows the joint/multi-degree and single-bachelor options; check page for pathway-specific duration)","fees":"CNY 70,000 per year for ECUST-portion (indicative; total varies by pathway)","courseDetail":"https://apply.china-admissions.com/joint-multi-degree-programme-chemical-engineering-technology-single-bachelor-degree-pathway-at-east-china-university-science-and-technology-ecust/d/pBECU5EC0/#curriculum","otherInstitution":"ECUSTJMD partners (see programme page)","scholarship":"https://www.china-admissions.com/scholarships"}
+       
+        
+      ]
+    },
+    {
+      "universityId": 9,
+      "name": "Ningbo University",
+      "universityLogo": "http://tiny.cc/2ufr001",
+      "courses": 
+      [
+        {"courseId":"9001","course":"Business Administration (NBU–UM BBA)","program":"Bachelor Degree","link":"https://apply.china-admissions.com/bachelors-in-business-administraion-at-ningbo-university/d/pBNBU4720/","entryRequirements":"Completion of high school diploma; English-taught program (applicants normally expected to demonstrate English proficiency; programme may request IELTS/TOEFL or equivalent)","duration":"4 years full-time","fees":"Indicative tuition listed on the program page (around CNY 18,000 per year as shown on related listing)","courseDetail":"https://apply.china-admissions.com/bachelors-in-business-administraion-at-ningbo-university/d/pBNBU4720/#program","otherInstitution":"https://umanitoba.ca (partner partner for the joint BBA pathway)","scholarship":"https://www.china-admissions.com/scholarship"}
+       
+        
+      ]
+    },
+    {
+      "universityId": 10,
+      "name": "Jinzhou Medical University",
+      "universityLogo": "http://tiny.cc/eufr001",
+      "courses": 
+      [
+        {"courseId":"10001","course":"Clinical Medicine (MBBS)","program":"MBBS (Bachelor of Medicine, Bachelor of Surgery)","link":"https://apply.china-admissions.com/mbbs-in-clinical-medicine-at-liaoning-medical-university/d/pBLNMDDB0/","entryRequirements":"High school diploma; required application documents (transcripts, passport, medical exam, English language certificate); no criminal record; age and health requirements per admissions notes","duration":"6 years full-time","fees":"CNY 35,000 per year (Indicative international tuition; total shown CNY 210,000 for full programme)","courseDetail":"https://apply.china-admissions.com/mbbs-in-clinical-medicine-at-liaoning-medical-university/d/pBLNMDDB0/#curriculum","otherInstitution":"http://www.jzmu.edu.cn (Jinzhou Medical University official site)","scholarship":"Chinese Government Scholarship eligibility noted on programme page; see general scholarships listing at https://www.china-admissions.com/scholarships"}
+       
+        
+      ]
+    },
+    {
+      "universityId": 11,
+      "name": "Jinzhou Medical University",
+      "universityLogo": "http://tiny.cc/eufr001",
+      "courses": 
+      [
+        {"courseId":"10001","course":"Clinical Medicine (MBBS)","program":"MBBS (Bachelor of Medicine, Bachelor of Surgery)","link":"https://apply.china-admissions.com/mbbs-in-clinical-medicine-at-liaoning-medical-university/d/pBLNMDDB0/","entryRequirements":"High school diploma; required application documents (transcripts, passport, medical exam, English language certificate); no criminal record; age and health requirements per admissions notes","duration":"6 years full-time","fees":"CNY 35,000 per year (Indicative international tuition; total shown CNY 210,000 for full programme)","courseDetail":"https://apply.china-admissions.com/mbbs-in-clinical-medicine-at-liaoning-medical-university/d/pBLNMDDB0/#curriculum","otherInstitution":"http://www.jzmu.edu.cn (Jinzhou Medical University official site)","scholarship":"Chinese Government Scholarship eligibility noted on programme page; see general scholarships listing at https://www.china-admissions.com/scholarships"}
+       
+        
+      ]
+    },
+    {
+      "universityId": 12,
+      "name": "Sino British College",
+      "universityLogo": "http://tiny.cc/yufr001",
+      "courses": 
+      [
+        {"courseId":"12001","course":"Business Management (Single Degree) — Sino-British College (1+2 / 2+2 pathways)","program":"Bachelor Degree (Pathway)","link":"https://apply.china-admissions.com/bachelors-business-management-single-degree-1-year-in-shanghai-2-years-in-uk-at-sino-british-college-shanghai/d/pBSBCQGH0/","entryRequirements":"Foundation Year: GCSE/IGCSE (5 modules) or IB 22 — IELTS 5.0 (min component 4.5) or TOEFL iBT 35; Degree Year (SBC Year 2): A-level CDD or IB 24 — IELTS 5.5 (min component 5.0) or TOEFL iBT 46","duration":"Pathways: 1+2 or 2+2 (1 year foundation + degree year at SBC then progression to UK partners) — overall varies (typical SBC year(s) 1–2 in Shanghai then UK transfer)","fees":"Tuition fee at SBC: CNY 80,000 per academic year (programme listing); note UK-year fees vary by partner university and location","courseDetail":"https://apply.china-admissions.com/bachelors-business-management-single-degree-1-year-in-shanghai-2-years-in-uk-at-sino-british-college-shanghai/d/pBSBCQGH0/#program","otherInstitution":"List of guaranteed partner universities in the UK (see SBC page)","scholarship":"https://www.china-admissions.com/scholarships"}
+       
+        
+      ]
+    },
+    {
+      "universityId": 13,
+      "name": "Hong Kong Metropolitan University",
+      "universityLogo": "http://tiny.cc/7vfr001",
+      "courses": 
+      [
+        {"courseId":13001,"course":"Cyber and Computer Security (Honours)","program":"Bachelor Degree (Honours)","link":"https://apply.china-admissions.com/bachelors-cyber-and-computer-security-honours-at-hong-kong-metropolitan-university/d/pBHKMJHL0/","entryRequirements":"Required documents include English language certificate and highest academic transcript; specific English score requirements not detailed on the listing (applicants should check HKMU admissions pages for precise IELTS/TOEFL cutoffs)","duration":"4 years full-time","fees":"HKD 105,390 per year (Indicative international tuition; total HKD figures shown on programme page)","courseDetail":"https://apply.china-admissions.com/bachelors-cyber-and-computer-security-honours-at-hong-kong-metropolitan-university/d/pBHKMJHL0/#curriculum","otherInstitution":"https://www.hkmu.edu.hk (HKMU official site)","scholarship":"See HKMU admissions / scholarships pages (HKMU scholarship information)"},
+        {"courseId":13002,"course":"Imaging Design & Digital Art (Honours)","program":"Bachelor Degree (Honours)","link":"https://apply.china-admissions.com/bachelors-imaging-design-and-digital-art-honours-at-hong-kong-metropolitan-university/d/pBHKMI4T0/","entryRequirements":"English language certificate and portfolio/transcripts as required by HKMU; specific scores not listed on the China Admissions summary (check HKMU admissions page for exact IELTS/TOEFL requirements)","duration":"4 years full-time","fees":"HKD 113,970 per year (Indicative international tuition; total programme figure shown on listing)","courseDetail":"https://apply.china-admissions.com/bachelors-imaging-design-and-digital-art-honours-at-hong-kong-metropolitan-university/d/pBHKMI4T0/#curriculum","otherInstitution":"https://www.hkmu.edu.hk (HKMU official site)","scholarship":"See HKMU scholarships / financial support pages"}
+
+        
+      ]
     }
+    
   ]
 }
