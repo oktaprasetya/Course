@@ -1,9 +1,5 @@
 [
-    {
-        "id": "Information-technology",
-        "name": "Certificate IV in Information Technology",
-        "category": "Information Technology",
-        "imageUrl": "http://tiny.cc/2h8r001",
-        "detailUrl": "https://blog.starshipeducation.com/2025/08/certificate-iv-in-information-technology.html"
-    }
+    {"id": "Information-technology","name": "Certificate IV in Information Technology","category": "Information Technology","imageUrl": "http://tiny.cc/2h8r001","detailUrl": "https://blog.starshipeducation.com/2025/08/certificate-iv-in-information-technology.html"},
+    {"id": "Accounting","name": "Bachelor of Accounting","category": "Accounting","imageUrl": "http://tiny.cc/w36t001","detailUrl": "https://blog.starshipeducation.com/2025/09/bachelor-of-commerce-accounting-di.html"}
+
 ]
